@@ -100,7 +100,7 @@ Mas tenha em mente que:
 
 | País | Preço Novo (2025) | Conversão (BRL) | Local de Fabricação | Preço Usado 2022 | Conversão (BRL) | Desvalorização (%) | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🇧🇷 Brasil | R$ 158.490 | R$ 158.490 | Indaiatuba, SP, Brasil | R$ 120.000 | R$ 120.000 | **24,3%** | [Toyota Brasil](https://www.toyota.com.br/modelos/corolla) |
+| 🇧🇷 Brasil | R$ 164.590 | R$ 158.490 | Indaiatuba, SP, Brasil | R$ 120.000 | R$ 120.000 | **24,3%** | [Toyota Brasil](https://www.toyota.com.br/modelos/corolla) |
 | 🇺🇸 EUA | US$ 22.325 | R$ 115.000 | Blue Springs, MS, EUA | US$ 17.641 | R$ 90.000 | **21,7%** | [Cars.com](https://www.cars.com/shopping/toyota-corolla-2022/) |
 | 🇯🇵 Japão | ¥2.886.800 | R$ 113.000 | Miyagi/Iwate, Japão | ¥2.000.000 | R$ 78.000 | **31,0%** | [Autogiz](https://www.autogiz.com/jp/car-prices/toyota-corolla-se-cvt-2025-7014) |
 | 🇦🇺 Austrália | A$ 29.270 | R$ 102.000 | Japão (importado) | A$ 26.000 | R$ 91.000 | **10,8%** | [CarsGuide](https://www.carsguide.com.au/toyota/corolla/price/2025) |
