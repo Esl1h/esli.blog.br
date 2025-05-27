@@ -111,8 +111,7 @@ Mas tenha em mente que:
 | 🇮🇳 Índia | ₹1.500.000 | R$ 90.000 | Bidadi, Karnataka, Índia | ₹1.000.000 | R$ 60.000 | **33,3%** | [91wheels](https://www.91wheels.com/cars/toyota/corolla) |
 | 🇿🇦 África do Sul | R 352.500 | R$ 100.000 | Durban, África do Sul | R 250.000 | R$ 71.000 | **29,0%** | [Carwithprices](https://carwithprices.com/za/cars/toyota-corolla-hatchback-190) |
 
-#   
-Carro desvaloriza muito no Brasil?
+# Carro desvaloriza muito no Brasil?
 
 Difícil acreditar, mas não!
 
