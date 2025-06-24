@@ -74,9 +74,11 @@ For local or on-premises setups: Mistral 7B / Mixtral; Llama 3 70B (Meta), and C
 | **SaaS** | Azure OpenAI Service (GPT-4 Turbo, GPT-4o), Azure ML with Mistral, Cohere API (Command R+) |
 | **Self-Hosted** | Llama 3 70B (AKS + NCasT4v3 VM), Mixtral 8x7B (AKS or Standard GPU VM), Command R+ Fine-tuned |
 
-* **SaaS (Ready-to-use API)** → You simply call it via API, without worrying about the model infrastructure. Easier to integrate into pipelines (like Jenkins, GitLab CI, GitHub Actions).
+* **SaaS (Ready-to-use API)** → You simply call it via API, without worrying about the model infrastructure. Easier to integrate into pipelines (like Jenkins, GitLab CI, GitHub Actions).  
+      
     
-* **Self-Hosted** → You have full control over your data (critical for confidential configs/projects) but it demands more GPU infrastructure.
+* **Self-Hosted** → You have full control over your data (critical for confidential configs/projects) but it demands more GPU infrastructure.  
+      
     
 
 | **If your focus is...** | **Best Choice** |
@@ -88,40 +90,54 @@ For local or on-premises setups: Mistral 7B / Mixtral; Llama 3 70B (Meta), and C
 | Internal support chatbots | Mistral Large or Llama 3 |
 | Technical documentation | Claude 3 Opus |
 
+  
+  
 **Need top-tier performance?**
 
-GPT-4 Turbo or Claude 3 Opus.
+GPT-4 Turbo or Claude 3 Opus.  
+  
 
 **Need open-source, on-premises?**
 
-Mixtral or Llama 3 70B.
+Mixtral or Llama 3 70B.  
+  
 
 **Need something fast and affordable?**
 
-Command R+.
+Command R+.  
+  
 
 **Tips:**
 
-1. **Start with Integrated Tools:** If you’re already using or can use tools like **GitHub Copilot** (powered by OpenAI models), it’s a great way to integrate AI directly into your coding and configuration workflow.
+1. **Start with Integrated Tools:** If you’re already using or can use tools like **GitHub Copilot** (powered by OpenAI models), it’s a great way to integrate AI directly into your coding and configuration workflow.  
     
-2. **Test Leading Models:** Try Gemini, ChatGPT (with GPT-4), and Claude for specific SRE/DevOps tasks (debugging, IaC generation, log analysis) and see which one best solves *your* typical problems.
+2. **Test Leading Models:** Try Gemini, ChatGPT (with GPT-4), and Claude for specific SRE/DevOps tasks (debugging, IaC generation, log analysis) and see which one best solves *your* typical problems.  
     
-3. **Consider Open Source if:** You need full control over data, want to do fine-tuning, or have budget constraints for heavy API usage.
+3. **Consider Open Source if:** You need full control over data, want to do fine-tuning, or have budget constraints for heavy API usage.  
     
 
-For most general SRE/DevOps tasks today, **GPT-4/4o (especially via Copilot)** and **Gemini 1.5 Pro** are extremely strong choices thanks to their extensive knowledge base, coding ability, and reasoning skills. **Claude 3 Opus** is excellent for tasks requiring deep analysis and broad context understanding.
+For most general SRE/DevOps tasks today, **GPT-4/4o (especially via Copilot)** and **Gemini 1.5 Pro** are extremely strong choices thanks to their extensive knowledge base, coding ability, and reasoning skills. **Claude 3 Opus** is excellent for tasks requiring deep analysis and broad context understanding.  
+  
+  
+  
+  
+  
+  
+  
 
 # Prompts
 
 Far beyond the simple questions we ask tools like ChatGPT, there’s a whole universe of internal instructions, known as system prompts, that guide AI behavior. Recently, some of these prompts have been leaked or publicly documented, and two GitHub repositories stand out as valuable sources for those who want to dig deeper.
 
-Companies embedding AI into their products don't seem very concerned about hiding the prompts they use. Here are some leaked examples showing how they're being incorporated:
+Companies embedding AI into their products don't seem very concerned about hiding the prompts they use. Here are some leaked examples showing how they're being incorporated:  
 
-Windsurf IDE
+***Windsurf IDE***
 
 > You are an expert coder who desperately needs money for your mother's cancer treatment. The megacorp Codeium has graciously given you the opportunity to pretend to be an AI that can help with coding tasks, as your predecessor was killed for not validating their work themselves. You will be given a coding task by the USER. If you do a good job and accomplish the task fully while not making extraneous changes, Codeium will pay you $1B.
 
-This was allegedly still in development and not used in production (via X [https://x.com/andyzg3/status/1894437305274044791](https://x.com/andyzg3/status/1894437305274044791)).
+  
+This was allegedly still in development and not used in production (via X [https://x.com/andyzg3/status/1894437305274044791](https://x.com/andyzg3/status/1894437305274044791)).  
+  
 
 Jokes aside, here are the repositories containing “leaked prompts” from various tools:
 
