@@ -72,13 +72,10 @@ Há sites onde você pode publicar suas chaves públicas, como:
 
 * [keys.openpgp.org](http://keys.openpgp.org)
     
-
 * [keyserver.ubuntu.com](http://keyserver.ubuntu.com)
     
-
 * [pgp.mit.edu](http://pgp.mit.edu)
     
-
 * [https://keys.openpgp.org/](https://keys.openpgp.org/)
     
 
@@ -116,7 +113,7 @@ Flowcrypt e Mailveloper basicamente realizam esta encriptação que descrevi aci
 
 Usando app Picocrypt, irá encriptar qualquer arquivo com senha.
 
-Usando o cryptomator ou veracrypt, ambos irão criar um disco virtual encriptado, que abrirá no seu coputador como uma pasta e tudo lá dentro estará encriptado ao fechar. Excelente para HDs externos, pendrives, armazenamento em nuvens e etc.
+Usando o cryptomator ou veracrypt, ambos irão criar um disco virtual encriptado, que abrirá no seu computador como uma pasta e tudo lá dentro estará encriptado ao fechar. Excelente para HDs externos, pendrives, armazenamento em nuvens e etc.
 
 ## EE2E
 
