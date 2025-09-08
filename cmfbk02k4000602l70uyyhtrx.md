@@ -103,6 +103,10 @@ E removi com o script abaixo:
 
 [https://gist.github.com/Esl1h/dd9c1b82bee79e52a27fc346519ee85d](https://gist.github.com/Esl1h/dd9c1b82bee79e52a27fc346519ee85d)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1757365094727/a7548a75-0656-46e6-abc2-4c0cf2b7474b.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1757365085188/4037e2a3-ea58-4d6f-97ba-e5cd31f8397a.png align="center")
+
 ## Equipamentos conectados
 
 O Motorola One Macro possui entrada P2, porém estou usando este DAC via USB-C
