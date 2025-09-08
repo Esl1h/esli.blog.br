@@ -103,14 +103,14 @@ E removi com o script abaixo:
 
 [https://gist.github.com/Esl1h/dd9c1b82bee79e52a27fc346519ee85d](https://gist.github.com/Esl1h/dd9c1b82bee79e52a27fc346519ee85d)
 
-## Equipamentos conectados:
+## Equipamentos conectados
+
+O Motorola One Macro possui entrada P2, porém estou usando este DAC via USB-C
 
 ### Dongle / DAC
 
 * iFi Go Link – USB DAC + Headphone Amp
     
-    * O Motorola One Macro possui entrada P2, porém estou usando este DAC via USB-C
-        
     * Chip ES9219 Sabre DAC com tecnologia Quad DAC+, arquitetura DAC HyperStream III de 32 bits e eliminador de jitter. Suporta áudio de alta resolução até PCM de 32 bits/384 kHz, DSD256 e MQA.
         
 
