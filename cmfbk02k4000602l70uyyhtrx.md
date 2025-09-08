@@ -3,7 +3,7 @@ title: "Transformando antigo smartphone em DAP"
 datePublished: Mon Sep 08 2025 20:07:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmfbk02k4000602l70uyyhtrx
 slug: transformando-antigo-smartphone-em-dap
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LpxT6SVVK1k/upload/72370578f2bee602b80d327a7efe9990.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757365449945/65d3a5ac-850b-41a9-9310-307e7d3eb453.jpeg
 tags: bash, android, audio, adb, dac, audiophile, dap, hi-res
 
 ---
