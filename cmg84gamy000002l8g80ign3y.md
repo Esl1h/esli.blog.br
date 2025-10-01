@@ -9,6 +9,7 @@ tags: etica, judaism, judaismo, aborto
 ---
 
 Segundo a lei judaica, o feto não é um ser viável e independente enquanto se encontra no ventre materno, já que ele não pode ser mantido vivo fora do seu abrigo natural. Portanto, o Judaísmo não equipara o aborto a um assassinato. Com base nesta premissa, algumas autoridades rabínicas consideram o aborto justificável quando se trata de evitar o sofrimento físico ou mesmo psicológico da mãe.  
+
 Entretanto, o fato de o aborto ser legalmente permitido em alguns casos, não quer dizer que seja eticamente correto, e certamente não justifica sua prática indiscriminada. Em nosso mundo contemporâneo, repleto de violência, no qual o respeito pela vida já está tão tragicamente depreciado, é fundamental que a sociedade seja conscientizada quanto aos sérios problemas éticos envolvidos no aborto.
 
 Mesmo que o embrião não seja realmente um ser vivo, ele é uma vida em potencial, e como tal não pode ser levianamente eliminado.
