@@ -18,13 +18,11 @@ Mas como você sabe que pode confiar em um site específico? Em outras palavras,
 
 Abaixo, um report de um dos sites que administro que ainda não tem o HSTS (leia mais abaixo), 1/3 do tráfego diário ainda é inseguro.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017961045/pYaVImMOx.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017961045/pYaVImMOx.png align="left")
 
 ## HTTPS
 
-Por padrão, um site não é seguro se ele usa o protocolo HTTP. 
-Adicionar um certificado configurado através do host do site à rota pode transformar o site de um site HTTP não seguro em um site HTTPS seguro. 
-O ícone de cadeado geralmente indica que o site está protegido por HTTPS.
+Por padrão, um site não é seguro se ele usa o protocolo HTTP. Adicionar um certificado configurado através do host do site à rota pode transformar o site de um site HTTP não seguro em um site HTTPS seguro. O ícone de cadeado geralmente indica que o site está protegido por HTTPS.
 
 HTTP é uma sigla em inglês para Hypertext Transfer Protocol ou “protocolo de transferência de hipertexto”. Trata-se, portanto, de um código responsável por fazer a comunicação entre os dados de uma página na internet e quem está fazendo o acesso, geralmente pela porta 80. Ou seja, é por causa dele que você está lendo este artigo.
 
@@ -60,10 +58,7 @@ Outras validações, como invalidação de certificados e autoridades são envia
 
 No Linux a lista de CA raiz estão em:
 
-`/usr/share/ca-certificates/`
-`/usr/local/share/ca-certificates/`
-`/etc/ssl/certs/`
-
+`/usr/share/ca-certificates//usr/local/share/ca-certificates//etc/ssl/certs/`
 
 Já acessou algum site do Governo Brasileiro e teve erro de TLS/SSL? Pois então, os certificados são gerados pelo órgão criado em 2001 voltado para Infraestrutura de Chaves Públicas Brasileira — ICP-Brasil, porém, a CA raiz desta ‘autoridade’ não está nos sistemas ou navegadores, ou seja, o cliente não confia! O usuário deve baixar a CA raiz e instalar ele próprio em seu S.O. e/ou navegador para acessar sem erros.
 
@@ -79,24 +74,22 @@ O HTTP Strict Transport Security (HSTS) é um mecanismo de política de seguran�
 
 A política especifica um período de tempo durante o qual o servidor deve ser acessado de forma segura.
 
-Ao usar o HSTS, o cliente entende que 100% da comunicação com aquele domínio DEVE ser via HTTPS, e o cache no header informa quando ele deve verificar novamente (ou seja, mesmo desativando o HSTS, o cliente continuará a forçar e usar o HTTPS por 1 ano — tempo médio usado na configuração do cache).
-Ou seja, com o HSTS, para alguém conseguir algum ataque como envenenar cookies ou outro tipo de man-in-the-middle, precisaria não somente atacar o servidor do site original e desabilita-lo, mas também esperar 1 ano para poder enviar um http para o cliente alvo.
+Ao usar o HSTS, o cliente entende que 100% da comunicação com aquele domínio DEVE ser via HTTPS, e o cache no header informa quando ele deve verificar novamente (ou seja, mesmo desativando o HSTS, o cliente continuará a forçar e usar o HTTPS por 1 ano — tempo médio usado na configuração do cache). Ou seja, com o HSTS, para alguém conseguir algum ataque como envenenar cookies ou outro tipo de man-in-the-middle, precisaria não somente atacar o servidor do site original e desabilita-lo, mas também esperar 1 ano para poder enviar um http para o cliente alvo.
 
 Para validar o HSTS em um site, basta executar o seguinte comando no terminal:
 
-```
+```plaintext
 $ curl -s -D- [https://esli-nux.com/](https://esli-nux.com/) | grep -i Strict
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017962719/yfQF_FGGq.png)
-
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017962719/yfQF_FGGq.png align="left")
 
 **Habilitar o HSTS no Apache, Nginx e Caddy:**
 
 No Apache
 
-```
+```plaintext
 <IfModule mod_headers.c>
 # this domain should only be contacted in HTTPS for the next 6 months
 Header add Strict-Transport-Security “max-age=15768000”
@@ -107,22 +100,19 @@ No Nginx
 
 Adicione o seguinte parâmetro no arquivo de configuração do Nginx:
 
-```add_header Strict-Transport-Security max-age=15768000;```
+`add_header Strict-Transport-Security max-age=15768000;`
 
 No Caddy:
 
 Adicione no Caddyfile:
 
-```header / Strict-Transport-Security “max-age=31536000;”```
-
+`header / Strict-Transport-Security “max-age=31536000;”`
 
 Para verificar toda a comunicação pode-se executar no terminal:
 
 `$ openssl s_client -showcerts -connect esli-nux.com:443`
 
 Será obtido a lista de certificados, o detalhamento do handshake (cifra, protocolo, sessão…)
-
-
 
 ## Certificados Auto Assinados
 
@@ -156,8 +146,7 @@ Crie uma chave privada usando o comando **openssl**:
 
 `$ openssl genrsa -out chaveprivada.key 2048`
 
-Crie uma solicitação de assinatura de certificado (CSR) usando a chave privada gerada na etapa anterior (irá responder dados de localização, email e empresa):
-`$ openssl req -new -key chaveprivada.key -out solicitacaochave.csr`
+Crie uma solicitação de assinatura de certificado (CSR) usando a chave privada gerada na etapa anterior (irá responder dados de localização, email e empresa): `$ openssl req -new -key chaveprivada.key -out solicitacaochave.csr`
 
 Crie um certificado usando seu CSR e chave privada:
 
@@ -203,11 +192,11 @@ Em primeiro lugar, a pessoa que irá receber o arquivo precisa me enviar sua cha
 
 Para gerar uma chave ela deve seguir os passos a seguir:
 
-Gerar uma chave PEM privada a partir de uma id_rsa já existente:
+Gerar uma chave PEM privada a partir de uma id\_rsa já existente:
 
 `$ openssl rsa -in ~/.ssh/id_rsa -outform pem > transfer.pem`
 
-Gerar uma chave PEM publica a partir de uma id_rsa já existente:
+Gerar uma chave PEM publica a partir de uma id\_rsa já existente:
 
 `$ openssl rsa -in ~/.ssh/id_rsa -pubout -outform pem > transfer.pub.pem`
 
@@ -241,8 +230,7 @@ Finalmente, descriptografar o arquivo:
 
 Todos são padrões de criptografia, funcionam através de chaves assimétricas, cada usuário gera em seu computador um par de chaves: uma pública e uma secreta. A pública é distribuída e permite que qualquer um criptografe dados de modo que só quem possui a chave secreta correspondente possa descriptografar.
 
-PGP, ou Pretty Good Privacy é proprietário, atualmente pertence a Symantec.
-OpenPGP é do mesmo criador do PGP, mas aqui é uma versão Open Source para uso público.
+PGP, ou Pretty Good Privacy é proprietário, atualmente pertence a Symantec. OpenPGP é do mesmo criador do PGP, mas aqui é uma versão Open Source para uso público.
 
 GPG ou GnuGPG significa “GNU Privacy Guard” é amplamente usado nos sistemas Linux.
 
@@ -250,7 +238,7 @@ Da mesma maneira que usamos o openssl para transferir o arquivo acima descrito, 
 
 Uma das maneiras mais simples de uso é através do gpg assinar seus commits e tags num repositório do Git.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017964302/Rdn6b9QBN.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017964302/Rdn6b9QBN.png align="left")
 
 Dois commits: Um assinado e outro não, na interface do Github.
 
@@ -258,13 +246,11 @@ Ou seja, além de usar um protocolo de criptografia de chave publica para ‘fec
 
 Garanto portanto que eu estou me comunicando com o servidor correto (SSH) e o servidor garante que o commit foi realizado por mim.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017966196/xRrwP97_5.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625017966196/xRrwP97_5.png align="left")
 
-Outro formato de uso das assinaturas é no envio de e-mail. Você pode trocar chaves entre as pessoas que irão enviar e receber emails e eles serão encriptados, qualquer interferência no email não conseguirá obter a mensagem.
-Há 2 extensões que testei que facilitam o processo de criar as chaves e incorporam no seu cliente de email:
+Outro formato de uso das assinaturas é no envio de e-mail. Você pode trocar chaves entre as pessoas que irão enviar e receber emails e eles serão encriptados, qualquer interferência no email não conseguirá obter a mensagem. Há 2 extensões que testei que facilitam o processo de criar as chaves e incorporam no seu cliente de email:
 
-Webmail (extensões no Chrome e Firefox):
-[FlowCrypt](https://flowcrypt.com/): somente para o Gmail (achei o melhor!) atualmente utilizo ele, nao há restrições para conta gratuita [https://flowcrypt.com/me/esli](https://flowcrypt.com/me/esli)
+Webmail (extensões no Chrome e Firefox): [FlowCrypt](https://flowcrypt.com/): somente para o Gmail (achei o melhor!) atualmente utilizo ele, nao há restrições para conta gratuita [https://flowcrypt.com/me/esli](https://flowcrypt.com/me/esli)
 
 [Mailvelope](https://www.mailvelope.com/): Gmail e outros (Outlook, Yahoo)
 
@@ -274,6 +260,4 @@ Android: Alguns Apps como o “[OpenKeychain: Easy PGP](https://play.google.com/
 
 O único provedor de email que conheço e fornece suporte ao PGP é o ProtonMail (que cria contas @prontonmail.com e @pm.me).
 
-Bem, é isto ;-)
-Espero ter sanado algumas dúvidas ou criado novas… 
-Qualquer coisa, pinga no meu blog: [https://esli-nux.com](https://esli-nux.com)
+Bem, é isto ;-) Espero ter sanado algumas dúvidas ou criado novas… Qualquer coisa, pinga no meu blog: [https://esli-nux.com](https://esli-nux.com)
