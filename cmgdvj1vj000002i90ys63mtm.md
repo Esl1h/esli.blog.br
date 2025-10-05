@@ -40,7 +40,9 @@ A ideia inicial deste artigo era trazer um template quase pronto, mas com o tant
 
 Preferi focar nos pontos em comum e na listagem de algumas boas práticas.
 
-O objetivo é um script completo (e simples) que permita a um usuário leigo instalar somente rodando uma linha no terminal e também, em caso de erro, saber exatamente o que precisa ser feito para corrigir e seguir na instalação.
+Um dos principais problemas que esta abordagem resolve é remover a necessidade de ter uma página gigantesca com diversos pacotes deb, rpm, tar.gz, snap, flatpak, appimage, zip, pacman, eopkg... e para cada um destes, versões x86, x64, arm64, armhf (32 bits), ppc64, s390x e outros... Evitando assim, erros de instalação ou update tanto por automações escritas pelos sysadmins ou por um usuário leigo.
+
+O objetivo é que você escreva um script completo (e simples) que permita a um usuário leigo (ou uma automação burra) instalar somente rodando uma linha no terminal e também, em caso de erro, saber exatamente o que precisa ser feito para corrigir e seguir na instalação.
 
 Quando usar bash para instaladores:
 
