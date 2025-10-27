@@ -8,7 +8,7 @@ tags: linux, scripts, arch, filosofia, distros, omarchy
 
 ---
 
-Faz 1 mês que estou usando o Omarchy, em resumo, um Arch com Hyprland pré-configurado e opinativo. Paciência zero de instalar Arch “puro”, já o fiz, já sofri com outras coisas desde o kernel 2.4 e 2.6. Instalei o Omarchy, removi os PWAs e apps que vieram. E após uns 15 minutos, já estava com tudo que preciso no dia-a-dia.
+Faz 1 mês que estou usando o Omarchy, em resumo, um Arch com Hyprland pré-configurado e opinativo. Paciência zero de instalar Arch “puro”, já o fiz, já sofri com outras coisas desde o kernel 2.4 e 2.6. Instalei o Omarchy, removi os PWAs e a maioria dos aplicativos que vieram. Após uns 15 minutos, já estava com tudo que preciso no dia a dia. Facilidade e rapidez graças principalmente ao Flatpak e ao sync do Brave com webapps/PWAs.
 
 Muitos anos atrás, 2017 se não me engano, havia escrito e sempre revisto o que hoje deixo público no meu GitHub sob o nome de “UAI-FAI”, onde basicamente, criei um shell script para realizar toda minha configuração do dia-a-dia para Debian/Ubuntu like e Fedora. Ou seja, em teoria, faço a instalação da distro, executo meu .sh e faço restore dos backups. [https://esli.blog.br/uai-fai](https://esli.blog.br/uai-fai) // [https://github.com/Esl1h/UAI-FAI](https://github.com/Esl1h/UAI-FAI) - pensando em adaptar este script para o universo Arch.
 
