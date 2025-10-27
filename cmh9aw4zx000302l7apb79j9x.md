@@ -177,7 +177,7 @@ package-lock.json
 
 O docs/ também é usado para armazenar toda documentação, sendo referenciada pelo readme.md ou numa estrutura melhor usando ASCIIDOCS (ao invés de markdown).
 
-Obs.: coloque em seu backlog: “largar markdown e partir para asciidocs”.
+Obs.: coloque em seu backlog: “largar markdown e partir para asciidocs” para documentação “human friendly”.
 
 No caso, um arquivo md para o diagrama da arquitetura detalhada com diagramas em formato Mermaid ou ASCII:
 
