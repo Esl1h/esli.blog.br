@@ -14,6 +14,8 @@ tags: music, linux, streaming, audio, setup, headphones, earbuds, audiophile, da
     
 * AKG K240 Mini II - headphone
     
+* AKG N9 Hybrid - headset
+    
 * Edifier W820NB Plus - headset
     
 * KZ ZSN Pro 2 - IEM
@@ -122,7 +124,7 @@ The Behringer products I have are terrible. It was a waste of money, and I would
 
 Galaxy Buds Pro are excellent, but only for listening to music on a smartphone. I sometimes use them on Linux, but I feel they heat up more than normal.
 
-Edifier W820NB Plus is my everyday headphones... work, meetings, perfect on Windows and Linux, but in the future I won’t buy anything Bluetooth, only devices with a 2.4 GHz wireless option.
+Edifier W820NB Plus is my everyday headphones... work, meetings, perfect on Windows and Linux, <s>but in the future I won’t buy anything Bluetooth, only devices with a 2.4 GHz wireless option</s>. I bought an AKG N9 Hybrid with dongle (wifi and bt connection).
 
 Mini amplifiers are good, but very limited. I knew that when I bought them and I'm fine with them, but I need a standard amplifier for the bass (in fact, something my wife asked for when she noticed the difference when I play on other models).
 
@@ -140,9 +142,9 @@ These equipments were bought a long time ago (except SSL2+), so I need to update
 
 I will set up my new home studio in 1 or 2 years (when I move to new and better space, I hope) and I can increase the acoustic ambient and investing better on this.
 
-To use SSL2+ on Linux, I am testing several apps, but lately, I have been using REAPER more (and testing/trying the Mixbus 11 - whose licence came bundled with SSL2+ and also has a Linux version). Due to the installation and trial period... it will end around Black Friday, so I may purchase it or focus on a FOSS alternative. I will write about DAW in Linux, this options and another, soon.
+To use SSL2+ on Linux, I am testing several apps, but lately, I have been using REAPER more (and testing/trying the Mixbus 11 - whose licence came bundled with SSL2+ and also has a Linux version). Due to the installation and trial period... it will end around Black Friday, so I may purchase it or focus on a FOSS alternative.
 
-The PC/Workstation and Laptop, both are using Fedora 42 (KDE).  
+The PC/Workstation and Laptop, both are using Fedora 43 (KDE).  
 PC is connected to SSL2+ (USB-C) but is connected too directly to Edifier S360DB with Toslink (Optical cable interface)
 
 Since the pandemic, I haven't played at all. I've been playing and studying bass since 2005, and I've played in a few bands, but I've completely neglected it over the last 5 years... The idea of a new house, a space for a home studio, has given me back my enthusiasm. :-)
@@ -155,4 +157,14 @@ I wrote about transforming an old smartphone in a dedicated Digital Audio Music 
 
 %[https://esli.blog.br/transform-old-smartphone-in-a-digital-audio-player-dap] 
 
-%[https://esli.blog.br/transformando-antigo-smartphone-em-dap]
+%[https://esli.blog.br/transformando-antigo-smartphone-em-dap] 
+
+## DAW
+
+Mostly, I’m using Mixbus 11.
+
+And wrote this articles about many DAWs and specific Ardour Mixbus and LiveTrax:
+
+%[https://esli.blog.br/daw-no-linux] 
+
+%[https://esli.blog.br/daw-ardour-mixbus-e-livetrax]
