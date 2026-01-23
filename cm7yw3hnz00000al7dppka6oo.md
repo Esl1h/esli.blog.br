@@ -1,7 +1,5 @@
 ---
 title: "Explorando o Conceito de Simplicidade no SRE"
-seoTitle: "Simplicidade no SRE: Um Guia Esencial"
-seoDescription: "A simplicidade em SRE é vital para aumentar a eficiência, confiabilidade e segurança em sistemas complexos"
 datePublished: Fri Mar 07 2025 14:47:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm7yw3hnz00000al7dppka6oo
 slug: simplicidade-no-sre
