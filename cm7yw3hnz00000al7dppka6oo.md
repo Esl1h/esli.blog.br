@@ -53,7 +53,6 @@ Ao adotar estratégias que minimizam complexidades desnecessárias, as equipes d
 
 ### Os livros SRE
 
-  
 [https://sre.google/sre-book/table-of-contents/](https://sre.google/sre-book/table-of-contents/)
 
 [https://sre.google/workbook/table-of-contents/](https://sre.google/workbook/table-of-contents/)
