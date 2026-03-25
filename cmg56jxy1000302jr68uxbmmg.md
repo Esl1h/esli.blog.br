@@ -1,6 +1,6 @@
 ---
 title: "Yom Kipur: Entendendo o Pecado e os 10 Dias de Arrependimento"
-datePublished: Mon Sep 29 2025 13:44:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-09-29T13:44:26.521Z
 cuid: cmg56jxy1000302jr68uxbmmg
 slug: yom-kipur-pecado-e-os-10-dias-de-arrependimento
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b-jO7Vok2yg/upload/b62f93ed9feb6aee2b566cd02d7d8d81.jpeg
