@@ -1,6 +1,6 @@
 ---
 title: "Glossário técnico completo de áudio e produção musical"
-datePublished: Sat Oct 11 2025 14:15:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-11T14:15:40.712Z
 cuid: cmgmcyc2w000102l56y20dlyl
 slug: glossario-tecnico-completo-de-audio-e-producao-musical
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/EaZdLOxkcpI/upload/1d1f2a6a3ab1df51976a018b1444b949.jpeg
