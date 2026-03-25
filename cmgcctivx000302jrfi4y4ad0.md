@@ -1,6 +1,6 @@
 ---
 title: "JSON vs. YAML vs. TOML: Which Data Format is Right for You?"
-datePublished: Sat Oct 04 2025 14:14:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-04T14:14:14.493Z
 cuid: cmgcctivx000302jrfi4y4ad0
 slug: json-vs-yaml-vs-toml-which-data-format-is-right-for-you
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HfFoo4d061A/upload/9f17185b046a62ea76f8626e47a8feb2.jpeg
