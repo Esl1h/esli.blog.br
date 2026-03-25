@@ -1,6 +1,6 @@
 ---
 title: "Certificados e OpenSSL"
-datePublished: Mon Nov 18 2019 19:20:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-11-18T19:20:45.151Z
 cuid: ckqitqq7302w3t6s18ocn4id5
 slug: certificados-e-openssl
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625017967681/K74ukK6Y1.jpeg
