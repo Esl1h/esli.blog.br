@@ -1,6 +1,6 @@
 ---
 title: "Melhores Praticas para SRE"
-datePublished: Sun Aug 29 2021 18:00:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-08-29T18:00:57.900Z
 cuid: cksxiqveb0oi3kxs18qei40cu
 slug: melhores-praticas-para-sre
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1630259987470/VliU_rkRP.jpeg
