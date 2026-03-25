@@ -1,6 +1,6 @@
 ---
 title: "Radicle"
-datePublished: Tue Aug 19 2025 21:28:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-19T21:28:29.413Z
 cuid: cmej22sbo000302l8b1c7fqso
 slug: radicle
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755631504209/d02f850a-7a19-4941-b93d-6fe184bf5b3b.png
