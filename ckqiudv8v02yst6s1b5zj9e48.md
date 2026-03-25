@@ -1,6 +1,6 @@
 ---
 title: "Comparativo: MuseScore ou Soundslice"
-datePublished: Wed Sep 16 2020 14:10:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-09-16T14:10:07.000Z
 cuid: ckqiudv8v02yst6s1b5zj9e48
 slug: comparativo-musescore-ou-soundslice
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625254635583/hq_3OjgE7.png
