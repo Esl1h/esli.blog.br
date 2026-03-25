@@ -2,7 +2,7 @@
 title: "Installing Brave Browser on Fedora 41: Easy Workaround"
 seoTitle: "Install Brave on Fedora 41: Simple Guide"
 seoDescription: "Learn to install Brave Browser on Fedora 41 effortlessly with this simple workaround"
-datePublished: Wed Oct 30 2024 21:42:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-30T21:42:41.263Z
 cuid: cm2wekga7000508l8hcrfdnny
 slug: installing-brave-browser-on-fedora-41-easy-workaround
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4TYi-oGq_EU/upload/7e1c7eb4fb5f9ca25178cbbc5461c14b.jpeg
