@@ -2,7 +2,7 @@
 title: "Cloud Storage para Linux"
 seoTitle: "Best Cloud Storage Options for Linux"
 seoDescription: "Explore alternativas de armazenamento em nuvem para Linux com foco em backup, segurança, compatíveis com rclone, visando privacidade"
-datePublished: Tue Jul 08 2025 15:17:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-08T15:17:51.141Z
 cuid: cmcuocd5x001a02l5d4bbf0g7
 slug: cloud-storage-para-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2JJ3wBHu4_0/upload/46f39b8a79110819fafdfa802f12de1c.jpeg
