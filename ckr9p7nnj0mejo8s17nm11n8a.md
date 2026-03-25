@@ -1,7 +1,7 @@
 ---
 title: "Map of the Internet's global infrastructure"
 seoTitle: "Map of the Internet's global infrastructure"
-datePublished: Sun Jul 18 2021 21:15:48 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-07-18T21:15:48.167Z
 cuid: ckr9p7nnj0mejo8s17nm11n8a
 slug: map-of-the-internets-global-infrastructure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626642880735/enGhiM3-S.png
