@@ -2,7 +2,7 @@
 title: "Carro no Brasil desvaloriza muito?"
 seoTitle: "Carros no Brasil: Desvalorização Alta?"
 seoDescription: "Descubra os fatores que influenciam a desvalorização de carros no Brasil e como o mercado internacional oferece perspectivas interessantes"
-datePublished: Tue May 27 2025 15:33:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-27T15:33:41.255Z
 cuid: cmb6oey9z000508i59g33bwnb
 slug: carro-no-brasil-desvaloriza-muito
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MyjVReZ5GLQ/upload/0e0cd85a458aaa44b6a6d1d7b0242ef5.jpeg
