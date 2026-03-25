@@ -1,6 +1,6 @@
 ---
 title: "Podcast Sysadmin #02: GitOps - Operações por Pull Requests"
-datePublished: Mon Feb 15 2021 22:15:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-02-15T22:15:57.000Z
 cuid: ckqiud86t02ypt6s172fs7dxl
 slug: podcast-sysadmin-02-gitops-operacoes-por-pull-requests
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625254232518/U0xrHjXI0.jpeg
