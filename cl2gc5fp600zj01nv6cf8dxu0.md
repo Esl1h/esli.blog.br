@@ -1,6 +1,6 @@
 ---
 title: "Guia SSD no Linux"
-datePublished: Tue Apr 26 2022 16:01:18 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-04-26T16:01:18.481Z
 cuid: cl2gc5fp600zj01nv6cf8dxu0
 slug: guia-ssd-no-linux
 canonical: https://www.esli-nux.com/2017/04/ssd-no-linux.html
