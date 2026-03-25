@@ -1,6 +1,6 @@
 ---
 title: "Vivaldi: O navegador que conquista o mundo dos carros elétricos"
-datePublished: Wed Mar 06 2024 21:00:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-03-06T21:00:28.206Z
 cuid: cltga9f3i000409jvgudyfjtc
 slug: vivaldi-o-navegador-que-conquista-o-mundo-dos-carros-eletricos
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d6yiUhX1QCM/upload/91da42744a5b693ea39edcfc70e00888.jpeg
