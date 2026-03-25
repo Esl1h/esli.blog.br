@@ -1,6 +1,6 @@
 ---
 title: "Git - servidores, tutoriais e cheatsheets"
-datePublished: Tue Aug 19 2025 19:17:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-19T19:17:30.841Z
 cuid: cmeixecm1000602k4bkl680iq
 slug: git-servidores-tutoriais-e-cheatsheets
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/842ofHC6MaI/upload/a320717cf2fb8a2513ff4ab6d002a6ee.jpeg
