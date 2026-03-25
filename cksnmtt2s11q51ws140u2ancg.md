@@ -1,6 +1,6 @@
 ---
 title: "Etckeeper"
-datePublished: Sun Aug 22 2021 19:57:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-08-22T19:57:31.565Z
 cuid: cksnmtt2s11q51ws140u2ancg
 slug: etckeeper-versioning-etc
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629661615172/ka1UxINEf.png
