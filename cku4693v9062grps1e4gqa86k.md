@@ -1,6 +1,6 @@
 ---
 title: "Yubikey #3 - 2FA console terminal, ssh e sudo"
-datePublished: Tue Sep 28 2021 14:25:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-28T14:25:19.199Z
 cuid: cku4693v9062grps1e4gqa86k
 slug: yubikey-console-sudo-ssh
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632780100244/GfMkLVNcT.jpeg
