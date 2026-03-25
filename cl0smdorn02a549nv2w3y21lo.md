@@ -1,6 +1,6 @@
 ---
 title: "Administração de sistemas e Deploys"
-datePublished: Tue Oct 11 2016 20:54:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2016-10-11T20:54:09.000Z
 cuid: cl0smdorn02a549nv2w3y21lo
 slug: ansible-chef-fabric-puppet-ou-salt
 canonical: https://www.esli-nux.com/2016/10/administracao-de-sistema-e-deploys.html
