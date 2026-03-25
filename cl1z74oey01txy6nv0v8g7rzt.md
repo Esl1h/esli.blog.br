@@ -1,6 +1,6 @@
 ---
 title: "DHCP - Guia Completo"
-datePublished: Mon May 18 2015 16:35:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2015-05-18T16:35:07.000Z
 cuid: cl1z74oey01txy6nv0v8g7rzt
 slug: dhcp-guia-completo
 canonical: https://www.esli-nux.com/2012/07/dhcp-guia-completo.html
