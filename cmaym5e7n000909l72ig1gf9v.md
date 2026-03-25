@@ -2,7 +2,7 @@
 title: "Explorando Funções Avançadas no Brave Browser"
 seoTitle: "Avançadas Funções do Brave Browser"
 seoDescription: "Explore funções avançadas do Brave Browser com URLs internas para administração, diagnóstico e ajustes de privacidade"
-datePublished: Thu May 22 2025 00:08:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-22T00:08:06.708Z
 cuid: cmaym5e7n000909l72ig1gf9v
 slug: funcoes-avancadas-no-brave-browser
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746663436857/f0c26db2-9f1f-476e-94ec-1b43ae75beaa.jpeg
