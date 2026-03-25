@@ -2,7 +2,7 @@
 title: "Construindo um simples web server em Vlang"
 seoTitle: "Crie um Web Server Simples com Vlang"
 seoDescription: "Aprenda a configurar um simples servidor web usando a linguagem V, explorando frameworks como vweb, veb e picoev"
-datePublished: Tue Jan 14 2025 00:59:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-14T00:59:39.851Z
 cuid: cm5vrmnkb000608kyahfgcog8
 slug: construindo-um-simples-web-server-em-vlang
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/XJXWbfSo2f0/upload/9084cc4e6fd607b8f18b920e3126e5ad.jpeg
