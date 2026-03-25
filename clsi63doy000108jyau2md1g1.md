@@ -1,6 +1,6 @@
 ---
 title: "Sobre carros e Docker"
-datePublished: Sun Feb 11 2024 23:59:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-02-11T23:59:38.002Z
 cuid: clsi63doy000108jyau2md1g1
 slug: sobre-carros-e-docker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707689838071/acb6ed78-e01d-4c65-9bb8-d0d5902c47f2.jpeg
