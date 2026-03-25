@@ -1,6 +1,6 @@
 ---
 title: "LAPM - Leia A Porra do Manual"
-datePublished: Wed Sep 28 2022 01:40:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-09-28T01:40:41.091Z
 cuid: cl8kynpc3000409me0vqie2lo
 slug: leia-a-porra-do-manual
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/4UGmm3WRUoQ/upload/v1664327935059/0yQfHeEXV.jpeg
