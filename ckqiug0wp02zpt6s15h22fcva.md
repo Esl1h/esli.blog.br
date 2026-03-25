@@ -1,6 +1,6 @@
 ---
 title: "Origem do nome Esli"
-datePublished: Thu Mar 19 2020 04:03:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-03-19T04:03:00.000Z
 cuid: ckqiug0wp02zpt6s15h22fcva
 slug: origem-do-nome-esli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255991522/HD48Wry2g.jpeg
