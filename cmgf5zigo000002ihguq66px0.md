@@ -1,6 +1,6 @@
 ---
 title: "My Music Setup"
-datePublished: Mon Oct 06 2025 13:26:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-06T13:26:15.096Z
 cuid: cmgf5zigo000002ihguq66px0
 slug: my-music-setup
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/kTCoE0lZafY/upload/b1aec01550f5c14925261f68251d2b1f.jpeg
@@ -10,110 +10,112 @@ tags: music, linux, streaming, audio, setup, headphones, earbuds, audiophile, da
 
 ## Headphones & Earbuds
 
-* Samsung Galaxy Buds Pro (1st model) - Earbuds
+*   Samsung Galaxy Buds Pro (1st model) - Earbuds
     
-* AKG K240 Mini II - headphone
+*   AKG K240 Mini II - headphone
     
-* AKG N9 Hybrid - headset
+*   AKG N9 Hybrid - headset
     
-* Edifier W820NB Plus - headset
+*   Edifier W820NB Plus - headset
     
-* KZ ZSN Pro 2 - IEM
+*   KZ ZSN Pro 2 - IEM
+    
+*   Fosi IM4 In-ear Open-Back Monitor
     
 
 ## Audio Devices – Interfaces, DACs & Amps
 
-* iFi Go Link – USB DAC + Headphone Amp (playback only)
+*   iFi Go Link – USB DAC + Headphone Amp (playback only)
     
-* Fosi Audio K5 Pro
+*   Fosi Audio K5 Pro
     
-* SSL2+ MKII USB Audio Interface
+*   SSL2+ MKII USB Audio Interface
     
-* Behringer Link UCG102 – USB 'portable' Guitar Interface
+*   Behringer Link UCG102 – USB 'portable' Guitar Interface
     
 
 ## Mini Bass amplifiers
 
-* VOX AP2-BS
+*   VOX AP2-BS
     
-* Blackstar Fly 103 Bass
+*   Blackstar Fly 103 Bass
     
 
 ## Speakers
 
-* Edifier S360DB Hi-Res
+*   Edifier S360DB Hi-Res
     
-* Sony HT-S700RF - soundbar
+*   Sony HT-S700RF - soundbar
     
 
 ## Apps and Services
 
-* Qobuz
+*   Qobuz
     
-* Spotify
+*   Spotify
     
-* USB Audio Player Pro (Android)
+*   USB Audio Player Pro (Android)
     
-* HiByMusic (Android)
+*   HiByMusic (Android)
     
-* Strawberry - Linux (connected to Qobuz)
+*   Strawberry - Linux (connected to Qobuz)
     
-* MusicPod - Linux (great frontend to radio and podcasts)
+*   MusicPod - Linux (great frontend to radio and podcasts)
     
-* Guitar Pro 8 (Windows/Wine)
+*   Guitar Pro 8 (Windows/Wine)
     
-* ultimate-guitar.com (web)
+*   ultimate-guitar.com (web)
     
-* Yousician (Android/Windows)
+*   Yousician (Android/Windows)
     
 
 ## Bass Pedals
 
-* BOSS ME-20B - Pedalboard - Pre-Amp
+*   BOSS ME-20B - Pedalboard - Pre-Amp
     
-* BOSS Chorus CEB-3
+*   BOSS Chorus CEB-3
     
-* Fender Drive Overdrive PR-2525
+*   Fender Drive Overdrive PR-2525
     
-* TMiranda Bass Drive Bo-1
+*   TMiranda Bass Drive Bo-1
     
-* Behringer Vintage Bass VB1
+*   Behringer Vintage Bass VB1
     
 
 ## Bass
 
-* Sire Marcus Miller V7
+*   Sire Marcus Miller V7
     
-* Epiphone SG EB-3
+*   Epiphone SG EB-3
     
-* Epiphone Tobias IV
+*   Epiphone Tobias IV
     
-* Memphis Tagima JB
+*   Memphis Tagima JB
     
 
 ## Other instruments
 
-* Stagg Acustic Guitar
+*   Stagg Acustic Guitar
     
-* Epiphone SG 400 Pro
+*   Epiphone SG 400 Pro
     
 
 And...
 
-* Hering Harmonicas (G, C) model VIntage Harp 1923.
+*   Hering Harmonicas (G, C) model VIntage Harp 1923.
     
-* Plan Flute
+*   Plan Flute
     
-* Indigenous wooden flute.
+*   Indigenous wooden flute.
     
 
 Note: But I don’t play these very well… I lack breath control.
 
 ## Stuffs
 
-* A lot of Fender P10/P10 angled cables.
+*   A lot of Fender P10/P10 angled cables.
     
-* An old and great Cherub metro-tuner WMT-568C working well (I probably bought it in 2004).
+*   An old and great Cherub metro-tuner WMT-568C working well (I probably bought it in 2004).
     
 
 ## My thoughts on my setup:
@@ -135,6 +137,19 @@ My first bass was a Memphis Tagima Jazz Bass in sunburst. I've had it since 2005
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759158767022/ab291345-c216-4549-8086-dc43f98538cc.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759158806857/080cb0a2-c6c2-48dd-aeb5-6e7b411b6aad.png align="center")
+
+The connection setup is as follows:
+
+*   Laptop (Arch) --> USB-C --> Fosi K5 Pro DAC --> Coaxial (RCA L/R) --> S360DB (aux)
+    
+*   Workstation (Fedora 43 KDE) --> USB-C --> SSL 2+ MKII Interface --> Coaxial (RCA L/R)--> S360DB (pc)
+    
+*   Workstation (Fedora 43 KDE) --> TOSlink --> S360DB (opt)
+    
+
+Optionally, I have a 3.5mm RCA <--> P2 cable to connect the DAC, interface, or pedals to the BlackStar amp’s output, making the setup more portable without having to move the Edifier 360.
+
+The importance of good cables: always look for shielded cables, an aluminum alloy shell, gold-plated connectors, PVC insulation, and enameled copper conductors... These features aren’t anything “extraordinary,” but there are cheap cables that don’t meet these standards and can degrade audio quality. The same applies to network cables, HDMI cables, and so on. They will always be the cheapest component in the entire setup and are therefore often overlooked - don’t skimp here.
 
 And my biggest frustration: not being able to set up a complete and functional workstation as a Home Studio using 100% Linux. I tried for a long time, using Ubuntu Studio (because it comes ready to use out-of-the-box)... I used it a lot to record and edit videos (mainly OBS and Kdenlive), but I was never able to fully capture and record the bass with totally satisfaction (for me).
 
