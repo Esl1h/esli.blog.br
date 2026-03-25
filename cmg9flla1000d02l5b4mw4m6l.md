@@ -2,7 +2,7 @@
 title: "Transform Old Smartphone in a Digital Audio Player (DAP)"
 seoTitle: "Turn Old Smartphone into a DAP"
 seoDescription: "Turn an old smartphone into a dedicated Digital Audio Player with apps, tweaks, and ADB removal for an optimal music experience"
-datePublished: Thu Oct 02 2025 13:08:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-02T13:08:44.666Z
 cuid: cmg9flla1000d02l5b4mw4m6l
 slug: transform-old-smartphone-in-a-digital-audio-player-dap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759090625481/413f676d-a225-4f2a-9dca-1e341eac46d7.png
