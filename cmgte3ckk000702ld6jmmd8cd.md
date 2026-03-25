@@ -1,6 +1,6 @@
 ---
 title: "SRE e o gerenciamento de crises e incidentes"
-datePublished: Thu Oct 16 2025 12:21:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-16T12:21:57.476Z
 cuid: cmgte3ckk000702ld6jmmd8cd
 slug: sre-e-o-gerenciamento-de-crises-e-incidentes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/tEIHSmfwznM/upload/509cfc2a610f050bde61d054bf22284b.jpeg
