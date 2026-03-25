@@ -1,6 +1,6 @@
 ---
 title: "Distribuições Linux para 2020"
-datePublished: Sat Dec 28 2019 05:04:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-12-28T05:04:00.000Z
 cuid: ckqitpciq02w4u9s1gwuc2cmk
 slug: distribuicoes-linux-para-2020
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625017903154/zlekF4ZeP.png
