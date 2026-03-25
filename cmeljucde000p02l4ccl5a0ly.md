@@ -2,7 +2,7 @@
 title: "Vigilância governamental: Five Eyes, MLAT e outros"
 seoTitle: "Vigilância Governamental e Acordos Globais"
 seoDescription: "Saiba como acordos de vigilância internacional, como o Five Eyes e MLAT, afetam a privacidade e segurança dos dados pessoais"
-datePublished: Thu Aug 21 2025 15:21:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-21T15:21:20.930Z
 cuid: cmeljucde000p02l4ccl5a0ly
 slug: vigilancia-governamental
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ew3-7k3sl-g/upload/d5ae9222cf7c5b7c14ea8355c5cbfba2.jpeg
