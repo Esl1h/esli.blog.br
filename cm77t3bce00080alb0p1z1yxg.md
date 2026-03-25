@@ -2,7 +2,7 @@
 title: "O Algoritmo de Elon Musk Explicado"
 seoTitle: "Elon Musk's Algorithm: A Simplified Guide"
 seoDescription: "Descubra o algoritmo de Elon Musk para inovação e eficiência com insights da biografia de Walter Isaacson e lições de startups"
-datePublished: Sun Feb 16 2025 15:53:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-16T15:53:33.230Z
 cuid: cm77t3bce00080alb0p1z1yxg
 slug: o-algoritmo-de-elon-musk-explicado
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uj3hvdfQujI/upload/a4d518d22bebba697f841966b6127a03.jpeg
