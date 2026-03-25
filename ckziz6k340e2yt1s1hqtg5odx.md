@@ -1,6 +1,6 @@
 ---
 title: "Iperf e Jperf- Teste de Performance de Rede"
-datePublished: Fri Feb 11 2022 22:22:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-11T22:22:27.298Z
 cuid: ckziz6k340e2yt1s1hqtg5odx
 slug: iperf
 canonical: https://www.esli-nux.com/2012/08/teste-de-performance-de-rede-com-iperf.html
