@@ -2,7 +2,7 @@
 title: "Guias de privacidade e segurança online"
 seoTitle: "Privacidade e Segurança Online: Guias Essenciais"
 seoDescription: "Guias sobre privacidade online, oferecendo ferramentas, práticas e recursos para proteger seus dados pessoais e melhorar a segurança na internet"
-datePublished: Wed Aug 13 2025 15:51:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-13T15:51:27.339Z
 cuid: cmea5e8vf000402l5dpdpcdn9
 slug: privacidade-e-seguranca-online
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gpjvRZyavZc/upload/94778bb0441231e10d05d9f2673ea005.jpeg
