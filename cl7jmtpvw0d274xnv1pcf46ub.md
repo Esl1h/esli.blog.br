@@ -1,6 +1,6 @@
 ---
 title: "Doc as a Code, DocOps e o SRE"
-datePublished: Thu Sep 01 2022 22:41:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-09-01T22:41:57.809Z
 cuid: cl7jmtpvw0d274xnv1pcf46ub
 slug: doc-as-a-code-docops-sre
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/59yRYIHWtzY/upload/v1662072021304/Nl43ZybRk.jpeg
