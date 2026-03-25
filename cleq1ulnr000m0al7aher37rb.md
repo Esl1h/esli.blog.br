@@ -1,6 +1,6 @@
 ---
 title: "Diferenças entre PM (Product Manager) e TPM (Technical Product Manager)"
-datePublished: Wed Mar 01 2023 19:07:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-03-01T19:07:06.663Z
 cuid: cleq1ulnr000m0al7aher37rb
 slug: diferencas-entre-product-manager-e-technical-manager
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5aiRb5f464A/upload/e933d480ad6847fba4cd40b57049f8ad.jpeg
