@@ -1,6 +1,6 @@
 ---
 title: "Guia de áudio e gravação musical"
-datePublished: Sun Oct 12 2025 15:21:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-12T15:21:40.842Z
 cuid: cmgnur2ei000202l8hxo89dbp
 slug: guia-de-audio-e-gravacao-musical
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jZMImIpuByU/upload/7afd7d13ada493beb04e2a89343775f9.jpeg
