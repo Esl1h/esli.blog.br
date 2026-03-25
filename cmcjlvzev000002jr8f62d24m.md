@@ -2,7 +2,7 @@
 title: "Qual melhor navegador?"
 seoTitle: "Comparação de Navegadores: Qual Melhor Browser?"
 seoDescription: "Comparativo de navegadores focados em privacidade com base nos testes do PrivacyTests.org para ajudar na escolha do melhor navegador"
-datePublished: Mon Jun 30 2025 21:23:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-30T21:23:39.655Z
 cuid: cmcjlvzev000002jr8f62d24m
 slug: qual-melhor-navegador
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JySoEnr-eOg/upload/de4877a8b92b46c7fe61c8c48d4d8703.jpeg
