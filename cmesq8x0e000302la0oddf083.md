@@ -2,7 +2,7 @@
 title: "Caridade e Justiça no judaísmo"
 seoTitle: "Caridade e Justiça no judaísmo"
 seoDescription: "A caridade anônima no judaísmo é uma obrigação moral elevada, promovendo justiça social sem esperar reconhecimento"
-datePublished: Tue Aug 26 2025 15:55:01 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-26T15:55:01.790Z
 cuid: cmesq8x0e000302la0oddf083
 slug: caridade-e-justica-no-judaismo
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Ld1KMJoC_us/upload/b20733be6c30d946ef498d6cd061e665.jpeg
