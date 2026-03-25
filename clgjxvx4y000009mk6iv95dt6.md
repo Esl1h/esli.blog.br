@@ -2,7 +2,7 @@
 title: "Qual opção de KeePass devo escolher?"
 seoTitle: "Qual KeePass escolher?"
 seoDescription: "Compare free and open-source KeePass versions and forks (KeePass 1.x, 2.x, KeePassXC, KeeWeb, AuthPass) to find the best option"
-datePublished: Sun Apr 16 2023 21:48:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-04-16T21:48:57.346Z
 cuid: clgjxvx4y000009mk6iv95dt6
 slug: qual-keepass-escolher
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RcvQHQB9zgA/upload/e05e19a403169191355d94fecc849af3.jpeg
