@@ -1,6 +1,6 @@
 ---
 title: "Transformando um laptop antigo em Chromebook"
-datePublished: Wed Nov 23 2022 15:20:37 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-11-23T15:20:37.103Z
 cuid: clatslujz000h08lb5j0yc0bu
 slug: transformando-um-laptop-antigo-em-chromebook
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669216135863/RUjcpE1pe.png
