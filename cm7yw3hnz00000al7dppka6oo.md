@@ -1,6 +1,6 @@
 ---
 title: "Explorando o Conceito de Simplicidade no SRE"
-datePublished: Fri Mar 07 2025 14:47:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-07T14:47:27.023Z
 cuid: cm7yw3hnz00000al7dppka6oo
 slug: simplicidade-no-sre
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/66181e67e44360b7746a850474cd080e.jpeg
