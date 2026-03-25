@@ -2,7 +2,7 @@
 title: "Por Que Existem Resistências ao Código de Conduta em Projetos de Código Aberto?"
 seoTitle: "Resistências ao Código de Conduta em Open Source"
 seoDescription: "Explora resistências aos códigos de conduta em projetos open source, suas alternativas e o impacto na comunidade FOSS"
-datePublished: Fri Mar 28 2025 14:59:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-28T14:59:08.096Z
 cuid: cm8swrem7000a0ajsfgfbcz4q
 slug: por-que-existem-resistencias-ao-codigo-de-conduta-em-projetos-de-codigo-aberto
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/t2mjbIpnxVY/upload/a3b8e48d46564fb62ce36723baed0448.jpeg
