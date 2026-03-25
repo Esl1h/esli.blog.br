@@ -1,6 +1,6 @@
 ---
 title: "Hora do café #2 - Enquanto a caravana passa, os cães latem"
-datePublished: Sun Jul 21 2024 23:51:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-21T23:51:33.604Z
 cuid: clyw7p59g00000ald7mb901as
 slug: hora-do-cafe-2-enquanto-a-caravana-passa-os-caes-latem
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UH2x_pfV4MA/upload/f7f3f3eb8fba41c0e53b9e1c1ede47f6.jpeg
