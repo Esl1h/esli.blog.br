@@ -2,7 +2,7 @@
 title: "A palavra "Judiar" é racista?"
 seoTitle: "Origem e Significado de "Judiar"
 seoDescription: "Descubra a origem e significado da palavra "judiar" e por que não deveria ser considerada racista segundo especialistas"
-datePublished: Fri Nov 15 2024 17:25:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-15T17:25:56.229Z
 cuid: cm3j0fwcl000p08jr4d2ihcp2
 slug: a-palavra-judiar-e-racista
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d_so1tRFKJk/upload/9905ec6d0eb4daf2f8c0b5bb9c3e8897.jpeg
