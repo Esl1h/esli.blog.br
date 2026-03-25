@@ -1,6 +1,6 @@
 ---
 title: "AI para SRE: por que usar o Claude"
-datePublished: Sat Jan 10 2026 02:30:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-10T02:30:07.125Z
 cuid: cmk7othxx000802l77cgv7sv8
 slug: ai-para-sre-por-que-usar-o-claude
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5b9Lr-ggr0E/upload/1b66649bd61621731531532a681ba20d.jpeg
