@@ -1,6 +1,6 @@
 ---
 title: "Transformando antigo smartphone em DAP"
-datePublished: Mon Sep 08 2025 20:07:48 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-09-08T20:07:48.724Z
 cuid: cmfbk02k4000602l70uyyhtrx
 slug: transformando-antigo-smartphone-em-dap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757365449945/65d3a5ac-850b-41a9-9310-307e7d3eb453.jpeg
