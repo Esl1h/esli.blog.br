@@ -2,7 +2,7 @@
 title: "Inteligência Artificial (parte 1): Evolução, Principais Empresas e Seu Futuro"
 seoTitle: "Evolução e Futuro da Inteligência Artificial"
 seoDescription: "Explore a evolução da Inteligência Artificial, suas principais empresas, tecnologias emergentes e o futuro promissor deste setor revolucionário"
-datePublished: Tue Feb 04 2025 21:11:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-04T21:11:03.117Z
 cuid: cm6qz5ebw000008jxapdt2ian
 slug: inteligencia-artificial-parte-1-evolucao-principais-empresas-e-seu-futuro
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eGGFZ5X2LnA/upload/fa254c77cd728090c0eda2442214839a.jpeg
