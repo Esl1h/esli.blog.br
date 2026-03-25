@@ -1,6 +1,6 @@
 ---
 title: "Etckeeper"
-datePublished: Mon Jan 14 2019 18:02:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-01-14T18:02:00.000Z
 cuid: cksnkw22u118g2xs1c3osf8sz
 slug: etckeeper
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629658675715/BupulNdNA.png
