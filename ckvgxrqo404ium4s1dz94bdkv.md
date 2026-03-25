@@ -1,6 +1,6 @@
 ---
 title: "Sabote-se: Use Excel!"
-datePublished: Mon Nov 01 2021 17:28:34 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-11-01T17:28:34.695Z
 cuid: ckvgxrqo404ium4s1dz94bdkv
 slug: sabote-se-use-excel
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1635787555161/2-byxLfQ8.jpeg
