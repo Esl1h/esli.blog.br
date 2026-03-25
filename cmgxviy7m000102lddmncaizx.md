@@ -1,6 +1,6 @@
 ---
 title: "SRE inserido num ambiente tradicional de TI"
-datePublished: Sun Oct 19 2025 15:41:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-19T15:41:03.539Z
 cuid: cmgxviy7m000102lddmncaizx
 slug: sre-em-ambiente-tradicional-de-ti
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/XUEdfpPIhXg/upload/6fced5751acd7d6221b4ea37a4f17973.jpeg
