@@ -1,6 +1,6 @@
 ---
 title: "Saindo do Inglês Básico sem gastar (muito)"
-datePublished: Wed May 04 2022 18:23:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-05-04T18:23:16.707Z
 cuid: cl2rwqtqd0170dmnv5wofh2gs
 slug: saindo-do-ingles-basico-sem-gastar-muito
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/jAebodq7oxk/upload/v1651614187505/K0vtHY2Vf.jpeg
