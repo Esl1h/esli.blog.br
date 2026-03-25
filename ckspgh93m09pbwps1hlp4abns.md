@@ -1,6 +1,6 @@
 ---
 title: "Otimização do sysctl.conf"
-datePublished: Sat Jun 15 2019 02:31:34 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-06-15T02:31:34.000Z
 cuid: ckspgh93m09pbwps1hlp4abns
 slug: otimizacao-do-sysctl
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629772386059/KGpmYqh7o.jpeg
