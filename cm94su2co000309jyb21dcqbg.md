@@ -2,7 +2,7 @@
 title: "De Bash para V: Um Guia Prático para Sysadmins, SREs e DevOps"
 seoTitle: "Guia Prático: Bash para V para Sysadmins e DevOps"
 seoDescription: "Guia prático para migrar scripts Bash para Vlang, ideal para SRE, sysadmins e DevOps em busca de performance e portabilidade"
-datePublished: Sat Apr 05 2025 22:42:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-05T22:42:27.816Z
 cuid: cm94su2co000309jyb21dcqbg
 slug: de-bash-para-v-um-guia-pratico-para-sysadmins-sres-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jr5wAkBFT40/upload/3946cad78e2cd2d23efb19e4d0d08d46.jpeg
