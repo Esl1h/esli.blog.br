@@ -1,6 +1,6 @@
 ---
 title: "SRE e o Incident Commander"
-datePublished: Sat Oct 18 2025 12:39:52 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-18T12:39:52.986Z
 cuid: cmgw9m3ru000602l81y6g3bun
 slug: sre-e-o-incident-commander
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NhzhWMtk0E8/upload/1021341684e1e4a2e59845b0acae6021.jpeg
