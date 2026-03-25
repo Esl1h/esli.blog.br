@@ -1,6 +1,6 @@
 ---
 title: "Team Topology e a Engenharia de Plataforma"
-datePublished: Fri Dec 19 2025 00:35:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-19T00:35:43.831Z
 cuid: cmjc51niv000002jv7unbams8
 slug: team-topology-e-a-engenharia-de-plataforma
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SYTO3xs06fU/upload/3f0f23729d765b74c02b9a188b6053d7.jpeg
