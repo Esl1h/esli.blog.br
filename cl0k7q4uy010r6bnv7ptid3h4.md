@@ -1,6 +1,6 @@
 ---
 title: "Protegendo seu smartphone em caso de roubo ou furto!"
-datePublished: Wed Mar 09 2022 23:49:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-03-09T23:49:06.156Z
 cuid: cl0k7q4uy010r6bnv7ptid3h4
 slug: protegendo-seu-smartphone-em-caso-de-roubo-ou-furto
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/QmIZnMoe5FI/upload/v1646868311914/DTndN5wJN.jpeg
