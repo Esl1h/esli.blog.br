@@ -1,6 +1,6 @@
 ---
 title: "JSON vs YAML vs TOML: Formato de dados para projetos modernos"
-datePublished: Wed Sep 24 2025 17:41:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-09-24T17:41:24.805Z
 cuid: cmfy9tfid000002ld5ge9678o
 slug: json-yaml-toml
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HfFoo4d061A/upload/362355fd5668e69a27594d3e7be425f6.jpeg
