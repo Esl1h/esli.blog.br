@@ -1,6 +1,6 @@
 ---
 title: "SRE e Métricas"
-datePublished: Wed Oct 08 2025 13:45:23 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-08T13:45:23.824Z
 cuid: cmgi1ju5s000502jlgv4mamuj
 slug: sre-e-metricas
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-yBvef_mAaQ/upload/2eb248d79da64b059ec98ece5d0f54e4.jpeg
