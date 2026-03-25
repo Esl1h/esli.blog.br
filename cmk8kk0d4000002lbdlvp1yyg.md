@@ -1,6 +1,6 @@
 ---
 title: "SRE e a Liberdade dos Muitos Caminhos"
-datePublished: Sat Jan 10 2026 17:18:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-10T17:18:32.152Z
 cuid: cmk8kk0d4000002lbdlvp1yyg
 slug: sre-e-a-liberdade-dos-muitos-caminhos
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KN8W0Q8H3gI/upload/31cd4f8e8eb15336c684ca8b9578facc.jpeg
