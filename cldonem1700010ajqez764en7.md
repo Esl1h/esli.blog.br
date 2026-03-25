@@ -1,6 +1,6 @@
 ---
 title: "Hora do café #1 - O milagre do TCPDump"
-datePublished: Fri Feb 03 2023 14:55:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-03T14:55:17.515Z
 cuid: cldonem1700010ajqez764en7
 slug: hora-do-cafe-1-o-milagre-do-tcpdump
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TYIzeCiZ_60/upload/751906eb795f1f82656bcbabf625bee9.jpeg
