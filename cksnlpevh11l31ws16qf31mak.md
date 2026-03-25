@@ -1,6 +1,6 @@
 ---
 title: "Grep e Regex"
-datePublished: Sun May 15 2016 19:25:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2016-05-15T19:25:16.000Z
 cuid: cksnlpevh11l31ws16qf31mak
 slug: grep-e-regex
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629659631932/HvftVb9z-.png
