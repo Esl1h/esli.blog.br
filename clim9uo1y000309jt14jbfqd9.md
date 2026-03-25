@@ -2,7 +2,7 @@
 title: "A palavra "pecado" é um termo judaico?"
 seoTitle: "Origem e Significado da Palavra "Pecado"
 seoDescription: "Explora a origem judaica do termo "pecado" e seu significado de falhar em atingir o potencial humano, com foco na reparação e retorno"
-datePublished: Wed Jun 07 2023 22:18:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-06-07T22:18:51.334Z
 cuid: clim9uo1y000309jt14jbfqd9
 slug: a-palavra-pecado-e-um-termo-judaico
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aXeVH4FcS1k/upload/261167ddffcbccb56942e0aaaac2c728.jpeg
