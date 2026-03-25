@@ -1,6 +1,6 @@
 ---
 title: "Lensa, AI Art, Stable Diffusion... Não obrigado."
-datePublished: Thu Dec 08 2022 10:45:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-12-08T10:45:36.242Z
 cuid: clbeydyeq000408kyfv1c2y06
 slug: lensa-ai-art-stable-diffusion-nao-obrigado
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670495039068/sBJpzkt0S.jpeg
