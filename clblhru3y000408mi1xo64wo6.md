@@ -1,6 +1,6 @@
 ---
 title: "Armazenamento correto de munições"
-datePublished: Tue Dec 13 2022 00:34:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-12-13T00:34:53.614Z
 cuid: clblhru3y000408mi1xo64wo6
 slug: armazenamento-de-municoes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670884229654/s_R_IZ4hX.jpeg
