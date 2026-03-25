@@ -1,6 +1,6 @@
 ---
 title: "ChromeOS — Chromebook para TI: Melhores Apps Online e Offline"
-datePublished: Thu Mar 26 2020 20:04:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-03-26T20:04:00.000Z
 cuid: ckqitq30s02vyt6s10jfw1wkl
 slug: chromeos-chromebook-para-ti-melhores-apps-online-e-offline
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625017937298/_1i4N3HW0.png
