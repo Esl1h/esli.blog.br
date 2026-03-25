@@ -1,6 +1,6 @@
 ---
 title: "SOx - A lei Sarbanes-Oxley"
-datePublished: Tue Feb 08 2022 21:19:25 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-08T21:19:25.317Z
 cuid: ckzemlxvi08go96s17jd1cd74
 slug: sox-a-lei-sarbanes-oxley
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/DZpc4UY8ZtY/upload/v1644354701864/-DsGxslMB.jpeg
