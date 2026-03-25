@@ -1,6 +1,6 @@
 ---
 title: "Podcast sobre Sysadmin e SRE - SRE, DevOps e o Sysadmin Raiz"
-datePublished: Mon Jul 27 2020 01:14:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-07-27T01:14:12.000Z
 cuid: ckqiue01c02ytt6s10srm3mox
 slug: podcast-sobre-sysadmin-e-sre-sre-devops-e-o-sysadmin-raiz
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625256207852/8DBp8CWVj.jpeg
