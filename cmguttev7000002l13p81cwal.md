@@ -1,6 +1,6 @@
 ---
 title: "SRE e as boas práticas para gestão de incidentes"
-datePublished: Fri Oct 17 2025 12:29:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-17T12:29:53.923Z
 cuid: cmguttev7000002l13p81cwal
 slug: sre-e-as-boas-praticas-para-gestao-de-incidentes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1cmUs5eXOtg/upload/65a338fbec3c967b18260d05975124c6.jpeg
