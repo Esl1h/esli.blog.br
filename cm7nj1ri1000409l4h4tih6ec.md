@@ -2,7 +2,7 @@
 title: "A simplicidade como Caminho Para a Excelência"
 seoTitle: "Excelência Através da Simplicidade"
 seoDescription: "Simplicidade aumenta eficiência e eficácia em diversas áreas ao focar no essencial"
-datePublished: Thu Feb 27 2025 15:56:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-27T15:56:43.513Z
 cuid: cm7nj1ri1000409l4h4tih6ec
 slug: a-simplicidade-como-caminho-para-a-excelencia
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LpbyDENbQQg/upload/f29b344039f35ec77e7d1b8f2a4e277f.jpeg
