@@ -1,6 +1,6 @@
 ---
 title: "Café em capsulas - máquina NESCAFÉ® Dolce Gusto®"
-datePublished: Fri Apr 17 2020 01:26:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-17T01:26:02.000Z
 cuid: ckqiuffnc02zmu9s14788b71n
 slug: cafe-em-capsulas-maquina-nescafer-dolce-gustor
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255411560/fKsVWMxgd.jpeg
