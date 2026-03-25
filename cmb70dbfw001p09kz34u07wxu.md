@@ -2,7 +2,7 @@
 title: "Carros no Brasil são muito caros?"
 seoTitle: "Preços Altos de Carros no Brasil?"
 seoDescription: "Carros novos no Brasil são quase tão caros quanto nos EUA, mas são menos acessíveis devido a impostos altos e menor poder de compra"
-datePublished: Tue May 27 2025 21:08:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-27T21:08:20.396Z
 cuid: cmb70dbfw001p09kz34u07wxu
 slug: carros-no-brasil-sao-muito-caros
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/DMboCqNUjfI/upload/ddb4444f7cf3a2cdcd1e8fa258ed76fc.jpeg
