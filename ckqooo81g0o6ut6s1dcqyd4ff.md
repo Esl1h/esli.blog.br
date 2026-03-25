@@ -1,6 +1,6 @@
 ---
 title: "Testing hashnode Github integration post"
-datePublished: Sun Jul 04 2021 04:17:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-07-04T04:17:31.734Z
 cuid: ckqooo81g0o6ut6s1dcqyd4ff
 slug: hello-world-from-github
 cover: https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png
