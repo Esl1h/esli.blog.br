@@ -1,6 +1,6 @@
 ---
 title: "Calibre .22 para defesa: Bom, ruim ou loucura?"
-datePublished: Sat Oct 24 2020 00:31:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-24T00:31:59.000Z
 cuid: ckqiudojn02zeu9s12v5w3jnq
 slug: calibre-22-para-defesa-bom-ruim-ou-loucura
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625254540475/56hoijR7W.jpeg
