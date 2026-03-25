@@ -1,6 +1,6 @@
 ---
 title: "O que é o WireGuard?"
-datePublished: Tue Mar 31 2020 16:16:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-03-31T16:16:45.000Z
 cuid: cktaa0uxn03za6gs1dvtt9tqn
 slug: o-que-e-o-wireguard
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631031332830/e8eNbvc2f.png
