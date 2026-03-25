@@ -1,6 +1,6 @@
 ---
 title: "21 afinações para guitarra e violão"
-datePublished: Thu Mar 26 2020 15:59:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-03-26T15:59:44.000Z
 cuid: ckqiufuxn02zuu9s1d4go0nxv
 slug: 21-afinacoes-para-guitarra-e-violao
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255941783/-y9AI4XEQ.jpeg
