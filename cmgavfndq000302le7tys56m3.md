@@ -1,6 +1,6 @@
 ---
 title: "Receita do Caos"
-datePublished: Fri Oct 03 2025 13:19:47 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-03T13:19:47.487Z
 cuid: cmgavfndq000302le7tys56m3
 slug: receita-do-caos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759086389346/c038b0c0-8a15-467f-8598-ebc4c9b61b26.png
