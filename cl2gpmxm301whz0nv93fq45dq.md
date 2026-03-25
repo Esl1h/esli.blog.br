@@ -1,6 +1,6 @@
 ---
 title: "Apps e os tipos de redes de comunicação"
-datePublished: Tue Apr 26 2022 22:18:49 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-04-26T22:18:49.864Z
 cuid: cl2gpmxm301whz0nv93fq45dq
 slug: apps-e-os-tipos-de-redes-de-comunicacao
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ZiQkhI7417A/upload/v1651009068225/k1MS8BrKE.jpeg
