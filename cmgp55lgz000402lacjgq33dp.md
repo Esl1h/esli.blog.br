@@ -1,6 +1,6 @@
 ---
 title: "DAW no Linux"
-datePublished: Mon Oct 13 2025 13:00:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-13T13:00:41.076Z
 cuid: cmgp55lgz000402lacjgq33dp
 slug: daw-no-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/N1I6IgDOGJs/upload/c0a2dcd363c997e9bef8bff08fe07846.jpeg
