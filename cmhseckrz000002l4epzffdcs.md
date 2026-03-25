@@ -1,6 +1,6 @@
 ---
 title: "Frameworks e ferramentas para criar CLI em shell/bash"
-datePublished: Mon Nov 10 2025 00:21:04 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-10T00:21:04.176Z
 cuid: cmhseckrz000002l4epzffdcs
 slug: frameworks-para-criar-cli-em-bash
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NLSXFjl_nhc/upload/114f3f97fb9b9135636f25af7c211bec.jpeg
