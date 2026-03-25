@@ -2,7 +2,7 @@
 title: "Instalando o R no Linux"
 seoTitle: "Guia: Instalando R no Linux"
 seoDescription: "Aprenda a instalar o R no Linux e explore seus recursos de computação estatística e gráficos com este guia passo a passo"
-datePublished: Sun Aug 21 2022 00:07:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-08-21T00:07:44.846Z
 cuid: cl72kltf00509pinv09rtfelu
 slug: instalando-o-r
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661040161651/3gYrsAhbw.png
