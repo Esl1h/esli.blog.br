@@ -1,6 +1,6 @@
 ---
 title: "Yubikey  #1 - Introdução ao 2FA"
-datePublished: Mon Sep 27 2021 19:11:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-27T19:11:55.952Z
 cuid: cku311u9a07oyjos1e6bl16q5
 slug: yubikey-introducao
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632768892017/KwcDkeRRb.jpeg
