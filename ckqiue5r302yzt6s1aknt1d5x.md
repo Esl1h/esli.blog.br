@@ -1,6 +1,6 @@
 ---
 title: "Crônica: Pandemia, rotina e o tédio da Morte."
-datePublished: Fri Jul 24 2020 22:17:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-07-24T22:17:44.000Z
 cuid: ckqiue5r302yzt6s1aknt1d5x
 slug: cronica-pandemia-rotina-e-o-tedio-da-morte
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255307171/eFpFgFpcM.jpeg
