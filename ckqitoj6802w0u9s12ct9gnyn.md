@@ -1,6 +1,6 @@
 ---
 title: "Programando no Chromebook: Melhores IDEs para o ChromeOS"
-datePublished: Tue Nov 05 2019 15:36:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-11-05T15:36:00.000Z
 cuid: ckqitoj6802w0u9s12ct9gnyn
 slug: programando-no-chromebook-melhores-ides-para-o-chromeos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625017865134/5KidIZxr9Q.png
