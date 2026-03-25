@@ -1,6 +1,6 @@
 ---
 title: "SRE e a Engenharia de Resiliência em Sistemas Distribuídos"
-datePublished: Wed Oct 15 2025 13:21:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-15T13:21:00.803Z
 cuid: cmgs0rfyb000702l1fz6d3c05
 slug: sre-e-a-engenharia-de-resiliencia-em-sistemas-distribuidos
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VVOAaEBukPY/upload/b2716630d87330a506da25fd386e4550.jpeg
