@@ -1,6 +1,6 @@
 ---
 title: "Hora do café #3 - Apps de notas, produtividade e a onda do segundo cérebro"
-datePublished: Wed Jul 24 2024 12:25:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-24T12:25:13.855Z
 cuid: clyzti2rj000309jp65zsdvha
 slug: hora-do-cafe-3-apps-de-notas-produtividade-e-a-onda-do-segundo-cerebro
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721824031117/ff76a766-34ee-4f96-95c1-29386ccca34d.webp
