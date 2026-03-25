@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk (por Walter Isaacson)"
-datePublished: Tue Oct 14 2025 12:38:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-14T12:38:24.245Z
 cuid: cmgqjssmt000g02l74zbl08af
 slug: elon-musk-por-walter-isaacson
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9X3DmoEM64k/upload/3b145fe0f8ef30dd861239b74028a400.jpeg
