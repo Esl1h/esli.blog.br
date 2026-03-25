@@ -1,6 +1,6 @@
 ---
 title: "sysup: um comando para atualizar todas as suas máquinas em qualquer distro"
-datePublished: Mon Feb 09 2026 16:24:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-09T16:24:02.004Z
 cuid: cmlfdth3o000902l4ezma0vel
 slug: sysup-um-comando-para-atualizar-todas-as-suas-maquinas-em-qualquer-distro
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WItUgoQSJp0/upload/7457c066975f8235cc5c9b09e6f4a775.jpeg
