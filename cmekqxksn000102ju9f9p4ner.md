@@ -1,6 +1,6 @@
 ---
 title: "Criptografia para iniciantes"
-datePublished: Thu Aug 21 2025 01:52:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-21T01:52:02.951Z
 cuid: cmekqxksn000102ju9f9p4ner
 slug: criptografia-para-iniciantes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZyttGSu-o2E/upload/e7c7159d601937cf2cc1e983ed0d1832.jpeg
