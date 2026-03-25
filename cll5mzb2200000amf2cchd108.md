@@ -1,6 +1,6 @@
 ---
 title: "Alternativas para substituir o Google Photos e Drive no Android"
-datePublished: Thu Aug 10 2023 20:53:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-08-10T20:53:24.794Z
 cuid: cll5mzb2200000amf2cchd108
 slug: alternativas-ao-google-photos-android
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cV9-hOgoaok/upload/8612f4e4f18aa30924fdeed1e5bc0847.jpeg
