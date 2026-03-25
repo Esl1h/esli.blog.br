@@ -2,7 +2,7 @@
 title: "Como fugir das propaganda na internet"
 seoTitle: "Evite Propaganda Online: Dicas Simples"
 seoDescription: "Aprenda a bloquear anúncios na internet com Brave Browser, Anti Paywall, NextDNS, VPN e SmartTubeNext para uma navegação sem propagandas"
-datePublished: Wed Apr 16 2025 13:37:11 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-16T13:37:11.243Z
 cuid: cm9jz77ez000309l50mxlbz8f
 slug: como-fugir-das-propaganda-na-internet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744747303828/ddd64e25-fd88-492c-8ecb-2890ae5cef53.png
