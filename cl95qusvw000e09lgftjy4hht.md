@@ -1,6 +1,6 @@
 ---
 title: "Privacidade e Segurança"
-datePublished: Wed Oct 12 2022 14:45:25 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-10-12T14:45:25.053Z
 cuid: cl95qusvw000e09lgftjy4hht
 slug: privacidade-e-seguranca
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/yekGLpc3vro/upload/v1665348935774/RGRoN-bpa.jpeg
