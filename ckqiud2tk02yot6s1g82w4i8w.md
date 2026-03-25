@@ -1,6 +1,6 @@
 ---
 title: "Gerar senhas no linux"
-datePublished: Wed Apr 21 2021 23:17:01 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-04-21T23:17:01.000Z
 cuid: ckqiud2tk02yot6s1g82w4i8w
 slug: gerar-senhas-no-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625254199024/cwDDF11-X.png
