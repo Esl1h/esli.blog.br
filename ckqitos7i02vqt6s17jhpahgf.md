@@ -1,6 +1,6 @@
 ---
 title: "Tipos de VPNs: PPTP x OpenVPN x L2TP/IPsec x SSTP x IKEv2 x Chameleon x WireGuard"
-datePublished: Wed Apr 01 2020 02:37:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-01T02:37:00.000Z
 cuid: ckqitos7i02vqt6s17jhpahgf
 slug: tipos-de-vpns-pptp-x-openvpn-x-l2tp-ipsec-x-sstp-x-ikev2-x-chameleon-x-wireguard
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625017877048/4jVx_vmnm.jpeg
