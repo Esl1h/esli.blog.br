@@ -2,7 +2,7 @@
 title: "Se o Judaísmo é matriarcal, por que a arvore genealógica é paterna?"
 seoTitle: "Judaísmo: Matriarcalidade vs Genealogia Paterna"
 seoDescription: "Explora as razões históricas e culturais por trás da prevalência das genealogias paternas no judaísmo, apesar da descendência matriarcal"
-datePublished: Sun Nov 27 2022 20:36:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-11-27T20:36:59.859Z
 cuid: clazto4er000108mkf8gvg8e9
 slug: se-o-judaismo-e-matriarcal-por-que-a-arvore-genealogica-e-paterna
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/eMewr_W71g4/upload/v1669414434230/wKfffeA-E.jpeg
