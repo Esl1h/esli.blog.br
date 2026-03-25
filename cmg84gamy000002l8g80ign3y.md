@@ -1,6 +1,6 @@
 ---
 title: "Judaísmo e o Aborto"
-datePublished: Wed Oct 01 2025 15:08:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-01T15:08:55.642Z
 cuid: cmg84gamy000002l8g80ign3y
 slug: judaismo-e-o-aborto
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LPRrEJU2GbQ/upload/fb047bbbba97259d3de39291e5b1e6cd.jpeg
