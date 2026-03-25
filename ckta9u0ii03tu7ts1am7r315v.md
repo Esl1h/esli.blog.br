@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu doesn't start graphic UI with Ryzen 3000 series"
-datePublished: Tue Sep 07 2021 16:12:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-07T16:12:28.129Z
 cuid: ckta9u0ii03tu7ts1am7r315v
 slug: ubuntu-doesnt-start-graphic-ui-with-ryzen-3000-series
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631031011531/BdhfHxxYQ.jpeg
