@@ -1,6 +1,6 @@
 ---
 title: "WireGuard"
-datePublished: Tue Sep 07 2021 16:24:01 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-07T16:24:01.960Z
 cuid: cktaa8vs0040h7ts17em10yri
 slug: wireguard
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631031655407/8EQ7rzpvFl.png
