@@ -1,6 +1,6 @@
 ---
 title: "Ferramentas para Criptografia"
-datePublished: Wed Nov 05 2025 22:34:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-05T22:34:53.294Z
 cuid: cmhmksmb1000002l25mp9ct8y
 slug: ferramentas-para-criptografia
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gcgves5H_Ac/upload/ef0197eefc1b8489748ac69913d760c6.jpeg
