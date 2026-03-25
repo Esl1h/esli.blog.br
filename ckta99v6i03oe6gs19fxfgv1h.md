@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu 20.10 não inicia modo grafico - Ryzen 3000"
-datePublished: Sat Nov 14 2020 15:55:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-11-14T15:55:21.000Z
 cuid: ckta99v6i03oe6gs19fxfgv1h
 slug: ubuntu-2010-nao-inicia-modo-grafico-ryzen-3000
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631030111175/IsWefi3ap.png
