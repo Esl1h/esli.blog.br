@@ -1,6 +1,6 @@
 ---
 title: "AI Coding com Agents Locais e Open Source"
-datePublished: Wed Jan 14 2026 15:58:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-14T15:58:54.657Z
 cuid: cmke7h0ox000002l2cov7aq4h
 slug: ai-coding-com-agents-locais-e-open-source
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/kE0JmtbvXxM/upload/6e354dcc4de27ea51f874859c90bd3a5.jpeg
