@@ -2,7 +2,7 @@
 title: "Mapa dos cabos submarinos (e terrestres) de internet"
 seoTitle: "Mapa da infraestrutura, cabos submarino e terrestres da internet"
 seoDescription: "Mapa dos cabos submarinos (e terrestres) que compoem a infraestrutura mundial da internet"
-datePublished: Sun Jan 31 2021 21:08:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-01-31T21:08:32.000Z
 cuid: ckr9p28tv0me6o8s1gs3q3i18
 slug: mapa-dos-cabos-submarinos-e-terrestres-de-internet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626642461996/tO6O6MLOR.png
