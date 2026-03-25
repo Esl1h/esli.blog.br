@@ -1,6 +1,6 @@
 ---
 title: "Escolhendo a melhor ferramenta de idioma e escrita"
-datePublished: Fri Oct 10 2025 16:15:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-10T16:15:32.010Z
 cuid: cmgl1sm96000b02jo1bx8f69h
 slug: escolhendo-a-melhor-ferramenta-de-idioma-e-escrita
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_nvKjg0aliA/upload/63a012de84172851554745fb08a7d43d.jpeg
