@@ -2,7 +2,7 @@
 title: "As monitorações do SRE"
 seoTitle: "O que é monitoramento SRE?"
 seoDescription: "Explore 8 diretrizes essenciais de monitoramento SRE, desde SLIs até segurança integrada, para otimizar a confiabilidade e automação do sistema"
-datePublished: Fri Mar 07 2025 14:29:23 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-07T14:29:23.374Z
 cuid: cm7yvg9im000309jo6qjqew1i
 slug: as-monitoracoes-do-sre
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JKUTrJ4vK00/upload/206b2d8ea6f1f668ca3b627af57c4f84.jpeg
