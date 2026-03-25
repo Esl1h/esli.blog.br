@@ -2,7 +2,7 @@
 title: "Técnicas para Lidar com erros em Vlang Utilizando os.system e Operador or"
 seoTitle: "Lidar com Erros em Vlang: Dicas Práticas"
 seoDescription: "Aprenda como lidar com erros em Vlang utilizando os.system e o operador or para automatizar configurações com sucesso"
-datePublished: Wed Jan 29 2025 20:36:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-29T20:36:41.090Z
 cuid: cm6ida39e000609l79lcze6xs
 slug: tecnicas-para-lidar-com-erros-em-vlang-utilizando-ossystem-e-operador-or
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ieic5Tq8YMk/upload/097def263055cb1eec5cdb7787d97556.jpeg
