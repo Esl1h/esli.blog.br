@@ -1,6 +1,6 @@
 ---
 title: "Desenvolvimento com AI: Porque seu repositório precisa falar "LLMês" fluentemente"
-datePublished: Mon Oct 27 2025 15:36:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-27T15:36:41.037Z
 cuid: cmh9aw4zx000302l7apb79j9x
 slug: desenvolvimento-com-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9WnjxT1NCoY/upload/65582a8f1255f3a4d1b82e60ac7acf26.jpeg
