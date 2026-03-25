@@ -1,6 +1,6 @@
 ---
 title: "O que é um SRE Product Manager?"
-datePublished: Mon Mar 06 2023 18:20:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-03-06T18:20:09.072Z
 cuid: clex5dgxc00030amc458mhq21
 slug: sre-product-manager
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5QgIuuBxKwM/upload/c9cc24325478574344925b0d172b3969.jpeg
