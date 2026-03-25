@@ -2,7 +2,7 @@
 title: "Hyundai Ioniq Hybrid"
 seoTitle: "Hyundai Ioniq Hybrid Overview"
 seoDescription: "Hyundai Ioniq Hybrid: híbrido eficiente com tecnologia avançada e presença global. Confira especificações"
-datePublished: Tue Mar 25 2025 18:03:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-25T18:03:15.867Z
 cuid: cm8ot0n4r000309ju6u2vbmc8
 slug: hyundai-ioniq-hybrid
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742920972152/ef0b81a3-991f-4832-ba93-0823d6955140.avif
