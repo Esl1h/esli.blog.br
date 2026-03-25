@@ -2,7 +2,7 @@
 title: "Which KeePass version is best for me?"
 seoTitle: "Best KeePass Version: Choosing the Right One"
 seoDescription: "Explore the ideal KeePass version for you, comparing features, compatibility, and security across KeePass, KeePass2, KeePassX, KeePassXC, and more"
-datePublished: Sun Apr 16 2023 21:47:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-04-16T21:47:41.731Z
 cuid: clgjxuasj000009ml5e3mbq52
 slug: which-keepass-version-is-best-for-me
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eNxYF6cexYU/upload/414830469ada14a7c1b6f79ee75ae394.jpeg
