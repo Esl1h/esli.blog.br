@@ -1,6 +1,6 @@
 ---
 title: "Casa Branca recomenda: use linguagens "memory-safe""
-datePublished: Sat Mar 02 2024 00:27:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-03-02T00:27:17.045Z
 cuid: clt9cg4hh000009jxbu4k1ghz
 slug: casa-branca-recomenda-use-linguagens-memory-safe
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709337355420/e46d71cc-5e3a-4ac3-9652-fb1728bd12e9.jpeg
