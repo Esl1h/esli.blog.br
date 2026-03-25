@@ -2,7 +2,7 @@
 title: "Qual a diferença entre hebreus, israelitas, judeus, israelenses e semitas?"
 seoTitle: "Hebreus, Israelitas, Judeus: Diferenças Essenciais"
 seoDescription: "Entenda as diferenças entre hebreus, israelitas, judeus, israelenses e semitas e seus contextos étnicos, tribais, religiosos e nacionais"
-datePublished: Sun Sep 10 2023 19:15:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-10T19:15:58.439Z
 cuid: clmdu5ena000009l2dfpf5nlz
 slug: qual-a-diferenca-entre-hebreus-israelitas-judeus-israelenses-e-semitas
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NVNXTONl9QU/upload/39c4a13828ae74287421037d8dfdcea6.jpeg
