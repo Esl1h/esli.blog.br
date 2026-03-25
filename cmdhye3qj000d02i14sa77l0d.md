@@ -2,7 +2,7 @@
 title: "Paper: dar mais tempo de “raciocínio” para AI piora o desempenho."
 seoTitle: "Raciocínio Prolongado Reduz Desempenho da IA"
 seoDescription: "Dar mais tempo de raciocínio para IA pode piorar o desempenho, revela estudo sobre escalonamento inverso em computação"
-datePublished: Thu Jul 24 2025 22:17:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-24T22:17:50.443Z
 cuid: cmdhye3qj000d02i14sa77l0d
 slug: paper-dar-mais-tempo-de-raciocinio-para-ai-piora-o-desempenho
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/OAsF0QMRWlA/upload/3a82cc0946aea3442a86b19609a52863.jpeg
