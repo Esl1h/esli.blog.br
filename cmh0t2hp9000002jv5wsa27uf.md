@@ -1,6 +1,6 @@
 ---
 title: "Criando uma extensão de navegador"
-datePublished: Tue Oct 21 2025 16:55:34 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-21T16:55:34.941Z
 cuid: cmh0t2hp9000002jv5wsa27uf
 slug: criando-uma-extensao-de-navegador
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761065360705/8e5ce357-24c6-4411-923b-27ab3ad83899.webp
