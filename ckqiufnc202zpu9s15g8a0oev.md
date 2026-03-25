@@ -1,6 +1,6 @@
 ---
 title: "rascunho para partitura e tablatura de baixo (4, 5 e 6 cordas) + notação musical no computador"
-datePublished: Mon Mar 30 2020 02:17:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-03-30T02:17:51.000Z
 cuid: ckqiufnc202zpu9s15g8a0oev
 slug: rascunho-para-partitura-e-tablatura-de-baixo-4-5-e-6-cordas-notacao-musical-no-computador
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255451350/bfkef1q8_.jpeg
