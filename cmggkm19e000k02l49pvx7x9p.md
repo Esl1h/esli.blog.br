@@ -2,7 +2,7 @@
 title: "How to Create a Custom Web Browser Extension"
 seoTitle: "Developing a Browser Extension"
 seoDescription: "Create a custom web browser extension to quickly access Proton sites with a customizable grid, connection status, and shortcuts"
-datePublished: Tue Oct 07 2025 13:03:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-07T13:03:26.690Z
 cuid: cmggkm19e000k02l49pvx7x9p
 slug: how-to-create-a-custom-web-browser-extension
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759265279234/b3ace007-9a89-4e9d-a83f-5c511b50ebea.jpeg
