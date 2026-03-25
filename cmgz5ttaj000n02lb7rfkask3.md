@@ -1,6 +1,6 @@
 ---
 title: "SRE e a sustentação das operações"
-datePublished: Mon Oct 20 2025 13:17:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-20T13:17:12.715Z
 cuid: cmgz5ttaj000n02lb7rfkask3
 slug: sre-e-a-sustentacao-das-operacoes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/y3TC9H0261s/upload/f85f241b342f520725b322bf55bf4e50.jpeg
