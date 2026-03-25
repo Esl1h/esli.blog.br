@@ -2,7 +2,7 @@
 title: "Uai-Fai"
 seoTitle: "Shell Bash script Automate your Ubuntu and Fedora installations"
 seoDescription: "Automate your Ubuntu and Fedora installations with a customizable Bash script for app setup and environment consistency across devices"
-datePublished: Thu May 02 2024 23:24:48 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-05-02T23:24:48.101Z
 cuid: clvpvil45000009jpb9zsb1ap
 slug: uai-fai
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714672029126/03560b54-9b71-4eac-ab3d-639ac8f024d2.jpeg
