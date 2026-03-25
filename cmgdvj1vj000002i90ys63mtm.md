@@ -1,6 +1,6 @@
 ---
 title: "Bash / shell scripts para instalação de Apps"
-datePublished: Sun Oct 05 2025 15:45:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-05T15:45:44.767Z
 cuid: cmgdvj1vj000002i90ys63mtm
 slug: bash-shell-scripts-para-instalacao-de-apps
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/XJXWbfSo2f0/upload/d6a79be75a7bf6d9137e93e3904380f2.jpeg
