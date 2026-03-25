@@ -1,6 +1,6 @@
 ---
 title: "Qual Linux mais leve? Qual Linux mais bonito?"
-datePublished: Tue Aug 23 2022 00:42:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-08-23T00:42:09.186Z
 cuid: cl75gprjh02x8vsnv6uom98nd
 slug: qual-linux-mais-leve-e-mais-bonito
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zGuBURGGmdY/upload/v1661198415840/NDPFseQW_.jpeg
