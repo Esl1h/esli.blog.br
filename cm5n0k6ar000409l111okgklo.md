@@ -2,7 +2,7 @@
 title: "Essential Guide to Backing Up Brave Browser Safely"
 seoTitle: "Backup Brave Browser: A Safety Guide"
 seoDescription: "Learn how to safely back up your Brave Browser data, including passwords, bookmarks, and wallet, with this essential guide. Discover recommended methods"
-datePublished: Tue Jan 07 2025 21:59:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-07T21:59:45.123Z
 cuid: cm5n0k6ar000409l111okgklo
 slug: essential-guide-to-backing-up-brave-browser-safely
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6xj0I6oxOFY/upload/f6ef95a6d3e7a63e0184e3f8b45e4fa7.jpeg
