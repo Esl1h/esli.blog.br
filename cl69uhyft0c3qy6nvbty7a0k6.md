@@ -1,6 +1,6 @@
 ---
 title: "parse YAML  on bash script"
-datePublished: Sun Jul 31 2022 21:39:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-07-31T21:39:21.870Z
 cuid: cl69uhyft0c3qy6nvbty7a0k6
 slug: parse-yaml-on-bash-script
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/NLSXFjl_nhc/upload/v1659623107769/gzBViMWx7.jpeg
