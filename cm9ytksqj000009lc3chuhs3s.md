@@ -2,7 +2,7 @@
 title: "Desbloqueando o poder da AI, LLM e Prompts para SREs, Sysadmins e DevOps"
 seoTitle: "Prompts, LLM e AI para SREs, Sysadmins e DevOps"
 seoDescription: "Explore como LLMs e AI melhoram tarefas de SREs, Sysadmins e DevOps, oferecendo soluções para IaC, scripts, CI/CD, troubleshooting, e mais"
-datePublished: Sat Apr 26 2025 22:56:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-26T22:56:20.348Z
 cuid: cm9ytksqj000009lc3chuhs3s
 slug: desbloqueando-o-poder-da-ai-llm-e-prompts-para-sres-sysadmins-e-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ugkxpq87qOk/upload/4af83d5abea3be9b8178bc9aaf24b50d.jpeg
