@@ -2,7 +2,7 @@
 title: "Inteligência Artificial (parte 2): Entenda AI Generativa, Redes Neurais, LLMs e Tokens"
 seoTitle: "AI Generativa e Modelos de Linguagem"
 seoDescription: "Explore a diferença entre IA generativa e grandes modelos de linguagem, seus usos, desafios e impacto na criação de conteúdo e comunicação"
-datePublished: Fri Feb 14 2025 23:32:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-14T23:32:33.198Z
 cuid: cm75elvzi000408lb4aqiakpb
 slug: inteligencia-artificial-parte-2-entenda-ai-generativa-redes-neurais-llms-e-tokens
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZPOoDQc8yMw/upload/fcb7b7e9448902a3c19f5218975be363.jpeg
