@@ -2,7 +2,7 @@
 title: "Pagar Boleto usando Cartão de Crédito"
 seoTitle: "Pague Boletos com Cartão de Crédito"
 seoDescription: "Guia atualizado para pagar boletos com cartão de crédito, analisando taxas e apps, dicas de prós e contras"
-datePublished: Sun Jan 09 2022 20:44:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-01-09T20:44:07.193Z
 cuid: cky7q4ziy03zfyis14wnu8c1q
 slug: pagar-boleto-usando-cartao-de-credito
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/gf8e6XvG_3E/upload/v1641350679641/H9zVf5RQq.jpeg
