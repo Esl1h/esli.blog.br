@@ -1,6 +1,6 @@
 ---
 title: "Melhor maneira de acessar a Wikipedia"
-datePublished: Sun Nov 30 2025 18:09:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-30T18:09:27.515Z
 cuid: cmim1bkka000002js6j2t4t5y
 slug: melhor-maneira-de-acessar-a-wikipedia
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764525747984/671e26f0-795e-456c-a6db-4afd51bd5f79.png
