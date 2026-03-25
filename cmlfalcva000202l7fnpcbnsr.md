@@ -1,6 +1,6 @@
 ---
 title: "Não caia no hype anti-AI"
-datePublished: Mon Feb 09 2026 14:53:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-09T14:53:44.422Z
 cuid: cmlfalcva000202l7fnpcbnsr
 slug: nao-caia-no-hype-anti-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/kGZ76pKsB8A/upload/34a8bf581bee5af6a14652e35635cb92.jpeg
