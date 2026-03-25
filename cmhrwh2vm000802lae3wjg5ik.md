@@ -1,6 +1,6 @@
 ---
 title: "DAW: Ardour, Mixbus e LiveTrax"
-datePublished: Sun Nov 09 2025 16:00:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-09T16:00:41.170Z
 cuid: cmhrwh2vm000802lae3wjg5ik
 slug: daw-ardour-mixbus-e-livetrax
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3roAi6z1SeE/upload/e61a5a8b78aa446e00a471a5d465e8a9.jpeg
