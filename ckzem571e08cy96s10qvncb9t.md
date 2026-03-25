@@ -1,6 +1,6 @@
 ---
 title: "marca d'água em arquivo PDF"
-datePublished: Tue Feb 08 2022 21:06:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-08T21:06:24.034Z
 cuid: ckzem571e08cy96s10qvncb9t
 slug: marca-dagua-em-arquivo-pdf
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/gm18kqu9TxQ/upload/v1644354201602/jOi2Jj2ZT.jpeg
