@@ -2,7 +2,7 @@
 title: "Introdução rápida ao R-lang"
 seoTitle: "Quick Guide to R Programming"
 seoDescription: "Aprenda sobre instalação, tipos de dados, funções, operadores e mais no R com este guia introdutório detalhado"
-datePublished: Thu Aug 25 2022 02:03:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-08-25T02:03:15.573Z
 cuid: cl78ehsqg02xg36nv9ywf02z1
 slug: introducao-rapida-ao-r-lang
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/oyXis2kALVg/upload/v1661393093689/QMMzjWP2x.jpeg
