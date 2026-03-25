@@ -1,6 +1,6 @@
 ---
 title: "Além das ISOs: Filosofias de Configuração que Moldam o Linux Moderno"
-datePublished: Sun Oct 26 2025 20:45:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-26T20:45:32.631Z
 cuid: cmh86hhef000202l2c7lgbj9v
 slug: alem-das-isos-filosofias-de-configuracao-que-moldam-o-linux-moderno
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wh-RPfR_3_M/upload/c2d0dd0b643fe297ad6fb68656366381.jpeg
