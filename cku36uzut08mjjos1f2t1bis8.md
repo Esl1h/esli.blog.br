@@ -1,6 +1,6 @@
 ---
 title: "YubiKey #2 - Linux Instalação"
-datePublished: Mon Sep 27 2021 21:54:34 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-27T21:54:34.296Z
 cuid: cku36uzut08mjjos1f2t1bis8
 slug: yubikey-linux-instalacao
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632771789454/ak1wDTUuHP.jpeg
