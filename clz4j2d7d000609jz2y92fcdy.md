@@ -1,6 +1,6 @@
 ---
 title: "estudo: Como encontrar um bom gestor?"
-datePublished: Sat Jul 27 2024 19:31:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-27T19:31:55.609Z
 cuid: clz4j2d7d000609jz2y92fcdy
 slug: como-encontrar-um-bom-gestor
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oUbzU87d1Gc/upload/afecdbbbb67f46ec66943c3697944fd8.jpeg
