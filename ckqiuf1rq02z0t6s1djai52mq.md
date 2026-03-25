@@ -1,6 +1,6 @@
 ---
 title: "Cirurgia Plástica - expansor de tecido"
-datePublished: Mon Jun 15 2020 02:34:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-06-15T02:34:32.000Z
 cuid: ckqiuf1rq02z0t6s1djai52mq
 slug: cirurgia-plastica-expansor-de-tecido
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625255359505/7fJSTr0rm.jpeg
