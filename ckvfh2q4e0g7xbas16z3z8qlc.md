@@ -1,6 +1,6 @@
 ---
 title: "RAM e Swap"
-datePublished: Sun Oct 31 2021 16:53:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-10-31T16:53:27.524Z
 cuid: ckvfh2q4e0g7xbas16z3z8qlc
 slug: ram-e-swap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1635698811556/Eyo8--wen.jpeg
