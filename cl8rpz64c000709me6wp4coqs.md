@@ -1,6 +1,6 @@
 ---
 title: "Docs-as-Code: Documentação como código"
-datePublished: Sun Oct 02 2022 19:12:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-10-02T19:12:02.748Z
 cuid: cl8rpz64c000709me6wp4coqs
 slug: docs-as-code-documentacao-como-codigo
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/cwuSKXhwhxI/upload/v1664737786814/g0i1eN_XW.jpeg
