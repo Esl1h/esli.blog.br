@@ -2,7 +2,7 @@
 title: "privacidade e segurança - 2025"
 seoTitle: "Privacidade e Segurança: Perspectivas para 2025"
 seoDescription: "Guia atualizado para proteger sua privacidade e segurança em 2025 com dicas de ferramentas e práticas recomendadas"
-datePublished: Mon Jun 30 2025 02:35:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-30T02:35:26.770Z
 cuid: cmcihl38y000902l4cun2cr8v
 slug: privacidade-e-seguranca-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fPxOowbR6ls/upload/de679050fa812d396f4b1654bffd3931.jpeg
