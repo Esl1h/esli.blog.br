@@ -10,13 +10,14 @@ tags: dns, https, tls, cryptocurrency, privacidad, dns-over-https, seguran-a-dig
 
 Toda vez que você digita um endereço no navegador, seu dispositivo faz uma consulta DNS. Por padrão, essa consulta vai em texto puro para o resolver do seu provedor de internet. Aquele mesmo provedor que jura não vender seus dados mas coincidentemente exibe propaganda de coisas que você pesquisou minutos atrás.
 
-Já falei sobre DNS e privacidade em outros artigos aqui no blog, como no [Privacidade e Segurança (2025)](https://esli.blog.br/privacidade-e-seguranca-2025), onde uso NextDNS em todos os dispositivos, e no [Como fugir das propagandas na Internet](https://esli.blog.br/como-fugir-das-propaganda-na-internet), onde mostro como o NextDNS funciona como camada de bloqueio. Neste artigo, vou aprofundar no protocolo DNSCrypt, nos DNS Stamps e no ecossistema de DNS criptografado.
+Já falei sobre DNS e privacidade em outros artigos aqui no blog, como no [Privacidade e Segurança (2025)](https://esli.blog.br/privacidade-e-seguranca-2025), onde uso NextDNS em todos os dispositivos, e no [Como fugir das propagandas na Internet](https://esli.blog.br/como-fugir-das-propaganda-na-internet), onde mostro como o NextDNS funciona como camada de bloqueio e também o [porque você não deve confiar no seu provedor de internet](https://esli.blog.br/nao-confie-no-seu-provedor-de-internet).  
+Neste artigo, vou aprofundar no protocolo DNSCrypt, nos DNS Stamps e no ecossistema de DNS criptografado.
 
 ## DNS tradicional: o problema
 
 O DNS (Domain Name System) resolve nomes de domínio em endereços IP. Funciona como uma lista telefônica: você pede o número de `esli.blog` e recebe o IP do servidor. O problema é que essa "ligação" acontece sem criptografia. Qualquer pessoa no caminho (seu ISP, o administrador da rede do café, um atacante na mesma rede) consegue ver exatamente quais domínios você está resolvendo.
 
-Não é paranoia, é superficialmente, como funciona o protocolo. O DNS foi projetado nos anos 80, quando a internet era um ambiente acadêmico e a ideia de privacidade na rede não existia.
+Isto é, superficialmente, como funciona o protocolo. O DNS foi projetado nos anos 80, quando a internet era um ambiente acadêmico e a ideia de privacidade na rede não existia.
 
 ## Os protocolos de DNS criptografado
 
@@ -74,7 +75,7 @@ O protocolo está em processo de padronização no IETF como Internet-Draft (dra
 
 ### Por que a indústria ignorou?
 
-Google, Cloudflare, Apple, Microsoft, todos adotaram DoH e DoT. O DNSCrypt ficou de fora do mainstream. Não porque seja inferior tecnicamente, mas porque não tem uma megacorp por trás patrocinando a adoção. DoH usa HTTPS, que toda a infraestrutura web já suporta. DNSCrypt exige implementação própria.
+Google, Cloudflare, Apple, Microsoft, todos adotaram DoH e DoT. O DNSCrypt ficou de fora do mainstream. Não porque seja inferior tecnicamente, mas porque não tem uma megacorp por trás patrocinando a adoção. DoH usa HTTPS, que toda a infraestrutura web já suporta e o DNSCrypt exige implementação própria.
 
 Resultado: o protocolo DNSCrypt em si tem adoção limitada entre os grandes providers. AdGuard DNS, Quad9 e CleanBrowsing suportam. NextDNS, Cloudflare e Google não suportam o protocolo DNSCrypt, apenas DoH e DoT.
 
