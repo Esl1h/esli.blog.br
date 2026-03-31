@@ -41,7 +41,7 @@ Mullvad significa "toupeira" em sueco. O nome já entrega a proposta: cavar um t
 
 Enquanto a concorrência inteira entrava numa corrida de quem gritava mais alto sobre privacidade (e ao mesmo tempo pedia seu CPF no cadastro), a Mullvad gerava um número de conta aleatório de 16 dígitos e pronto. Esse é seu login. Não existe "recuperar senha", não existe "esqueci meu e-mail". Perdeu o número, perdeu o acesso. Simples, brutal e coerente.
 
-Em abril de 2023, a polícia sueca apareceu no escritório da Mullvad com um mandado de busca e apreensão querendo dados de clientes. Saíram de mãos vazias. Não porque a Mullvad se recusou a cooperar, mas porque não havia dados para entregar. A política de no-log não era marketing. Era arquitetura.
+Em abril de 2023, a polícia sueca apareceu no escritório da Mullvad com um mandado de busca e apreensão querendo dados de clientes. Saíram de mãos vazias. Não porque a Mullvad se recusou a cooperar, mas porque não havia dados para entregar. A política de no-log não era só marketing, realmente faz parte arquitetura.
 
 ## Filosofia
 
