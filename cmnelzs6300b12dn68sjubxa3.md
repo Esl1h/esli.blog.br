@@ -4,7 +4,7 @@ datePublished: 2026-03-31T12:44:31.711Z
 cuid: cmnelzs6300b12dn68sjubxa3
 slug: dnscrypt-dns-stamps-e-dns-criptografado-o-guia-que-faltava
 cover: https://cdn.hashnode.com/uploads/covers/5df318ae066598ab275294bf/c919b12f-b360-4162-b44e-1aa52693cf9f.jpg
-tags: dns, https, tls, cryptocurrency, privacidad, dns-over-https, seguran-a-digital, dns-over-tls, dnscrypt, criptografia, dns-over-quic
+tags: dns, https, privacy, tls, privacidad, dns-over-https, seguran-a-digital, dns-over-tls, dnscrypt, criptografia, dns-over-quic
 
 ---
 
@@ -219,9 +219,9 @@ O dnscrypt-proxy baixa essas listas automaticamente e permite selecionar servido
 
 ## Próximos artigos
 
-Este artigo é o primeiro de uma série de três. No [próximo artigo](https://esli.blog.br/dnscrypt-proxy-linux-nextdns), mostro como instalar e configurar o dnscrypt-proxy no Linux (Fedora e Arch) usando o NextDNS como resolver. No [terceiro](https://esli.blog.br/dnscrypt-android-invizible-pro-nextdns), a configuração no Android com o InviZible Pro e alternativas.
+Este artigo é o primeiro de uma série de três. No [próximo artigo](https://esli.blog.br/dnscrypt-proxy-no-linux-configurando-dns-criptografado), mostro como instalar e configurar o dnscrypt-proxy no Linux (Fedora e Arch) utilizando o NextDNS como resolver. No [terceiro](https://esli.blog.br/dnscrypt-android-invizible-pro-nextdns), a configuração no Android com o InviZible Pro e alternativas.
 
-Se você ainda está usando o DNS do seu provedor, considere que ele provavelmente sabe mais sobre seus hábitos de navegação do que você gostaria. E se pudesse cobrar por cada consulta que bisbilhota, já teria financiado uma ida à lua.
+Se você ainda está utilizando o DNS do seu provedor, considere que ele provavelmente sabe mais sobre seus hábitos de navegação do que você gostaria. E se pudesse cobrar por cada consulta que bisbilhota, já teria financiado uma ida à lua.
 
 * * *
 
