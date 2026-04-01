@@ -310,6 +310,8 @@ sudo chown _dnscrypt-proxy:_dnscrypt-proxy /var/log/dnscrypt-proxy
 
 O formato TSV facilita análise com `awk`, `cut` e companhia. Desligue em produção se privacidade for prioridade.
 
+Meu dnscrypt-config.toml: https://github.com/Esl1h/dotfiles/blob/main/etc/dnscrypt-proxy/dnscrypt-proxy.toml
+
 ## Resultado
 
 Mesmo stamp, mesma configuração do NextDNS, mesma proteção que você tem no Android (que será o tema do [próximo artigo](https://esli.blog.br/dnscrypt-android-invizible-pro-nextdns)). Suas queries DNS saem criptografadas, filtradas pelas mesmas blocklists, com analytics unificado no painel do NextDNS.
