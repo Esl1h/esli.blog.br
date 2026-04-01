@@ -133,7 +133,9 @@ DNSOverTLS=yes
 DNSSEC=yes
 ```
 
-Ou use o `dnscrypt-proxy` para DoH com ODoH (Oblivious DoH), que adiciona mais uma camada separando quem faz a consulta de quem resolve.
+**Ou use o** `dnscrypt-proxy` **para DoH com ODoH (Oblivious DoH), que adiciona mais uma camada separando quem faz a consulta de quem resolve.**
+
+%[https://esli.blog.br/dnscrypt-dns-stamps-e-dns-criptografado-o-guia-que-faltava] 
 
 ### 3\. No celular: RethinkDNS e InviZible Pro
 
