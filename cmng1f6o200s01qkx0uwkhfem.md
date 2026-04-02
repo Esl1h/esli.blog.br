@@ -10,7 +10,7 @@ tags: dns, https, security, privacy, tls, cryptography, dns-over-https, dns-over
 
 Este é o segundo artigo da série sobre DNS criptografado. No [primeiro](https://esli.blog.br/dnscrypt-dns-stamps-e-dns-criptografado-o-guia-que-faltava), expliquei o que é o DNSCrypt, os protocolos de DNS criptografado, o conceito de DNS Stamps e relays. Se você caiu aqui direto, recomendo ler o anterior antes de prosseguir.
 
-O objetivo agora é prático: instalar o dnscrypt-proxy no Linux e configurar o NextDNS como resolver exclusivo via DoH, usando o stamp gerado conforme descrito no artigo anterior.
+O objetivo agora é prático: instalar o dnscrypt-proxy no Linux e configurar o NextDNS como resolver exclusivo via DoH, utilizando o stamp gerado conforme descrito no artigo anterior.
 
 Uso NextDNS em todos os meus dispositivos, conforme descrevi no [Privacidade e Segurança (2025)](https://esli.blog.br/privacidade-e-seguranca-2025). Aqui vou mostrar como configurar usando o dnscrypt-proxy ao invés do cliente oficial do NextDNS ou do DNS Privado nativo.
 
@@ -314,7 +314,7 @@ Meu dnscrypt-config.toml: https://github.com/Esl1h/dotfiles/blob/main/etc/dnscry
 
 ## Resultado
 
-Mesmo stamp, mesma configuração do NextDNS, mesma proteção que você tem no Android (que será o tema do [próximo artigo](https://esli.blog.br/dnscrypt-android-invizible-pro-nextdns)). Suas queries DNS saem criptografadas, filtradas pelas mesmas blocklists, com analytics unificado no painel do NextDNS.
+Mesmo stamp, mesma configuração do NextDNS, mesma proteção que você tem no Android (que será o tema do [próximo artigo](https://esli.blog.br/dns-criptografado-no-android-invizible-pro-e-alternativas)). Suas queries DNS saem criptografadas, filtradas pelas mesmas blocklists, com analytics unificado no painel do NextDNS.
 
 Seu provedor de internet que se contente em ver pacotes criptografados passando sem saber o que você está resolvendo.
 
