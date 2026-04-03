@@ -4,7 +4,7 @@ datePublished: 2026-04-01T16:59:49.753Z
 cuid: cmngajyb8002y2eld95mm7fju
 slug: dns-criptografado-no-android-invizible-pro-e-alternativas
 cover: https://cdn.hashnode.com/uploads/covers/5df318ae066598ab275294bf/13978cc0-82c3-4187-99b8-86054a5bbcd4.jpg
-tags: dns, https, security, privacy, android, tls, dns-over-https, dns-over-tls, dns-over-quic, invizible
+tags: dns, https, security, privacy, android, tls, dns-over-https, dns-over-tls, dnscrypt, dns-over-quic, invizible
 
 ---
 
