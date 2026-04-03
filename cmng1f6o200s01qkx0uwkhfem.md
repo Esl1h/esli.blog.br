@@ -4,7 +4,7 @@ datePublished: 2026-04-01T12:44:10.757Z
 cuid: cmng1f6o200s01qkx0uwkhfem
 slug: dnscrypt-proxy-no-linux-configurando-dns-criptografado
 cover: https://cdn.hashnode.com/uploads/covers/5df318ae066598ab275294bf/c4560645-055c-47ab-9803-e850d0d73984.jpg
-tags: dns, https, security, privacy, tls, cryptography, dns-over-https, dns-over-tls, criptografia, dns-over-quic
+tags: dns, https, security, privacy, tls, cryptography, dns-over-https, dns-over-tls, dnscrypt, criptografia, dns-over-quic
 
 ---
 
