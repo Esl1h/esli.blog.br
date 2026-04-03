@@ -12,7 +12,7 @@ O relógio do seu sistema está errado, mas não necessariamente errado no senti
 
 O protocolo NTP (Network Time Protocol) foi projetado nos anos 1980. Funciona sobre UDP, na porta 123, sem criptografia e sem autenticação. Seu sistema operacional confia cegamente na resposta de um servidor NTP para sincronizar o relógio. E essa confiança cega é explorável.
 
-Se você leu os artigos sobre [DNSCrypt](https://esli.blog.br/dnscrypt-dns-stamps-e-dns-criptografado-o-guia-que-faltava), sobre [não confiar no seu provedor de internet](https://esli.blog.br/nao-confie-no-seu-provedor-de-internet) e sobre o [vazamento via SNI](https://esli.blog.br/sni-leak-ech), já percebeu o padrão: protocolos antigos que nunca foram projetados com segurança em mente continuam sendo a fundação da internet moderna. O NTP é mais um deles.
+Se você leu os artigos sobre [DNSCrypt](https://esli.blog.br/dnscrypt-dns-stamps-e-dns-criptografado-o-guia-que-faltava), sobre [não confiar no seu provedor de internet](https://esli.blog.br/nao-confie-no-seu-provedor-de-internet) e sobre o [vazamento via SNI](https://esli.blog.br/sni-leak-o-calcanhar-de-aquiles-do-dns-seguro), já percebeu o padrão: protocolos antigos que nunca foram projetados com segurança em mente continuam sendo a fundação da internet moderna. O NTP é mais um deles.
 
 A hora correta é dependência direta de:
 
