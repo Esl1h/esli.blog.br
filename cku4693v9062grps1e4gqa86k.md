@@ -4,7 +4,7 @@ datePublished: 2021-09-28T14:25:19.199Z
 cuid: cku4693v9062grps1e4gqa86k
 slug: yubikey-console-sudo-ssh
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632780100244/GfMkLVNcT.jpeg
-tags: authentication, linux, security, console, ssh
+tags: authentication, linux, security, console, ssh, yubikey, yubico, yubikeys
 
 ---
 
