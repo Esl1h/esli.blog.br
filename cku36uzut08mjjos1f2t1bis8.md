@@ -4,7 +4,7 @@ datePublished: 2021-09-27T21:54:34.296Z
 cuid: cku36uzut08mjjos1f2t1bis8
 slug: yubikey-linux-instalacao
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1632771789454/ak1wDTUuHP.jpeg
-tags: authentication, linux, security, auth
+tags: authentication, linux, security, auth, yubikey, yubico, yubikeys
 
 ---
 
